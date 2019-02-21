@@ -1,7 +1,7 @@
 {
   "Unicode_escape_sequence": "voyons donc",
   "double_escaped_unicode_sequence": "test de traduction en francais",
-  "escaped_double_quotes": "test de traduction en francais",
+  "escaped_double_quotes": "now a commit to branch is setup lets see if it works",
   "escaped_baskslash": "test de traduction en francais",
   "backspace": "test de traduction en francais",
   "formfeed": "test de traduction en francais",
