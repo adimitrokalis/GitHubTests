@@ -1,0 +1,12 @@
+{
+  "Unicode_escape_sequence": "voyons donc",
+  "double_escaped_unicode_sequence": "test de traduction en francais",
+  "escaped_double_quotes": "test de traduction en francais",
+  "escaped_baskslash": "test de traduction en francais",
+  "backspace": "test de traduction en francais",
+  "formfeed": "test de traduction en francais",
+  "newline": "test de traduction en francais",
+  "carriage_return": "test de traduction en francais",
+  "horizontal_tab": "test de traduction en francais",
+  "unescaped_backslash": "test de traduction en francais"
+}
