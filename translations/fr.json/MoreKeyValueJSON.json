@@ -1,0 +1,12 @@
+{
+  "Unicode_escape_sequence": "voyons donc",
+  "double_escaped_unicode_sequence": "c'est quoi ca?",
+  "escaped_double_quotes": "merdeux",
+  "escaped_baskslash": "on traduit quoi?",
+  "backspace": "ab",
+  "formfeed": "a,b",
+  "newline": "a plus b egale ab",
+  "carriage_return": "a moins b egale ba",
+  "horizontal_tab": "ab",
+  "unescaped_backslash": "a diviser par b egale a/b"
+}
