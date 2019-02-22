@@ -9,4 +9,5 @@
   "carriage_return": "a\rb",
   "horizontal_tab": "a\tb",
   "unescaped_backslash": "a/b"
+  "test1": "hello"
 }
