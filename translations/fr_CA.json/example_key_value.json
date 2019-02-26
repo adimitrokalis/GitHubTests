@@ -1,0 +1,12 @@
+{
+  "Unicode_escape_sequence": "bonjour",
+  "double_escaped_unicode_sequence": "bonjour",
+  "escaped_double_quotes": "bonjour",
+  "escaped_baskslash": "bonjour",
+  "backspace": "bonjour",
+  "formfeed": "bonjour",
+  "newline": "bonjour",
+  "carriage_return": "bonjour",
+  "horizontal_tab": "bonjour",
+  "unescaped_backslash": "bonjour"
+}
