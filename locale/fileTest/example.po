@@ -28,3 +28,8 @@ msgid "%s product"
 msgid_plural "%s products"
 msgstr[0] "%s product"
 msgstr[1] "%s products"
+
+#: forms.py:189
+#, python-format
+msgid "test"
+msgstr "test"
