@@ -33,8 +33,3 @@ msgstr[1] "%s products"
 #, python-format
 msgid "test"
 msgstr "test"
-
-#: forms.py:189
-#, python-format
-msgid "tester"
-msgstr "tester"
