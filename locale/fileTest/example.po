@@ -37,3 +37,6 @@ msgstr "%n Name"
 
 msgid "<Strong>ok</Strong>"
 msgstr "ok"
+
+msgid "test"
+msgstr "test"
