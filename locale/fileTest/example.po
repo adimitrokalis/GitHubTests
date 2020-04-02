@@ -36,7 +36,7 @@ msgid "%n Name"
 msgstr "%n Name"
 
 msgid "<Strong>ok</Strong>"
-msgstr "ok"
+msgstr "ok2"
 
 msgid "test"
 msgstr "test"
