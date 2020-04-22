@@ -40,3 +40,6 @@ msgstr "ok2"
 
 msgid "test"
 msgstr "test"
+
+msgid "beer"
+msgstr "beer"
