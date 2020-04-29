@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Pitchup.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-01 19:10+0100\n"
-"PO-Revision-Date: 2020-03-31 15:14+0000\n"
+"PO-Revision-Date: 2020-04-02 18:11+0000\n"
 "Last-Translator: Anthony Dimitrokalis <anthonydim@transifex.com>, 2020\n"
 "Language-Team: French (https://www.transifex.com/transifex-93/teams/96483/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -23,16 +23,30 @@ msgstr ""
 #: forms.py:189
 #, python-format
 msgid "%s country code"
-msgstr "%s code de pays"
+msgstr "%s country code"
 
-#. translators: %s for product quantity, e.g. 1 product and 2 products
+#. translators: %s for product quantity, e.g. 1 product and 2 products. I want
+#. this to be a long note that wraps around in the translation editor.
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:86
 msgid "%s product"
 msgid_plural "%s products"
-msgstr[0] "%s produit"
-msgstr[1] "%s produits"
+msgstr[0] "%s product"
+msgstr[1] "%s products"
 
-#: forms.py:189
-#, python-format
+msgid "%d Date"
+msgstr "%d Date"
+
+msgid "%n Name"
+msgstr "%n Name"
+
+msgid "<Strong>ok</Strong>"
+msgstr "ok2"
+
 msgid "test"
 msgstr "test"
+
+msgid "beer"
+msgstr "beer"
+
+msgid "food"
+msgstr "food"
