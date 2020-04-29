@@ -43,3 +43,6 @@ msgstr "test"
 
 msgid "beer"
 msgstr "beer"
+
+msgid "food"
+msgstr "food"
