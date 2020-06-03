@@ -1,0 +1,825 @@
+/* 
+  Localizable.strings
+  Qobuz
+
+  Created by Ghassen Ferchichi on 22/05/2020.
+  Copyright © 2020 Qobuz. All rights reserved.
+*/
+
+// ----------------------------------------------------------------------------------------------------------------
+// Empty states
+// ----------------------------------------------------------------------------------------------------------------
+
+"empty.recover.action" = "Appuyez sur";
+
+// ------------------------------------------------
+
+// Title for search
+"empty.search.title" = "Retrouvez tous vos coups de coeur musicaux.";
+"empty.search.no.result.title" = "Nous sommes désolés.";
+"empty.myqobuz.title" = "Faites comme chez vous.";
+
+// Title for favorite
+"empty.favorite.album.title" = "Faites comme chez vous.";
+"empty.favorite.artist.title" = "Personne par ici...";
+"empty.favorite.playlist.title" = "C'est bien calme ici.";
+"empty.favorite.track.title" = "Ecoutez vos titres favoris.";
+
+// Title for offline
+"empty.offline.album.title" = "Faites comme chez vous.";
+"empty.offline.artist.title" = "Personne par ici...";
+"empty.offline.playlist.title" = "C'est bien calme ici.";
+"empty.offline.track.title" = "Ecoutez vos titres favoris.";
+
+// Title for purchase
+"empty.purchase.album.title" = "Faites comme chez vous.";
+"empty.purchase.artist.title" = "Personne par ici...";
+"empty.purchase.playlist.title" = "C'est bien calme ici..";
+"empty.purchase.track.title" = "Ecoutez vos titres favoris.";
+
+// Title for no network
+"empty.no.connection.title" = "Pas de connexion internet.";
+
+// ------------------------------------------------
+
+// Subtitle for search
+"empty.search.subtitle" = "Vos artistes, albums et playlists préférés sont tout proches !";
+"empty.search.no.result.subtitle" = "Aucun résultat ne correspond à votre recherche." ;
+"empty.myqobuz.subtitle" = "pour ajouter vos albums, playlists, titres et artistes préférés.";
+
+// Subtitle for favorite
+"empty.favorite.album.subtitle" = "pour ajouter un album à vos favoris.";
+"empty.favorite.artist.subtitle" = "pour ajouter un artiste à vos favoris.";
+"empty.favorite.playlist.subtitle" = "pour vous abonner à une playlist.";
+"empty.favorite.track.subtitle" = "pour ajouter vos morceaux préférés à favoris.";
+
+// Subtitle for offline
+"empty.offline.album.subtitle" = "pour importer un album en local.";
+"empty.offline.artist.subtitle" = "pour importer des albums de vos artistes favoris en local.";
+"empty.offline.playlist.subtitle" = "pour importer vos playlists favorites en local.";
+"empty.offline.track.subtitle" = "pour importer vos morceaux préférés en local.";
+
+// Subtitle for purchase
+"empty.purchase.album.subtitle" = "";
+"empty.purchase.artist.subtitle" = "";
+"empty.purchase.playlist.subtitle" = "";
+"empty.purchase.track.subtitle" = "";
+
+// Subtitle for no connection
+"empty.no.connection.subtitle" = "Réessayez ou allez dans la section en local.";
+
+// ------------------------------------------------
+
+//  Action for favorite
+"empty.favorite.album.action" = "Voir les nouveautés";
+"empty.favorite.artist.action" = "Rechercher des artistes";
+"empty.favorite.playlist.action" = "Explorer les playlists Qobuz";
+"empty.favorite.track.action" = "Rechercher des titres";
+
+// Action for offline
+"empty.offline.album.action" = "Voir les nouveautés";
+"empty.offline.artist.action" = "Rechercher des artistes";
+"empty.offline.track.action" = "Rechercher des titres";
+
+// Action for purchase
+"empty.purchase.album.action" = "Voir les nouveautés";
+"empty.purchase.artist.action" = "Rechercher des artistes";
+"empty.purchase.playlist.action" = "Explorer les playlists Qobuz";
+"empty.purchase.track.action" = "Rechercher des titres";
+
+// Action for no connection
+"empty.no.connection.action" = "Voir mes imports";
+
+// ------------------------------------------------
+
+// Subaction for no connection
+"empty.no.connection.subaction" = "Réessayer";
+
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// URL internationalisées
+"url.qobuz.facebook" = "https://www.facebook.com/qobuz";
+"url.qobuz.twitter" = "https://twitter.com/qobuz";
+"url.qobuz.customerServices" = "https://help.qobuz.com/hc/fr";
+
+// error
+"error.network" = "Aucune connexion internet disponible";
+
+// Menu
+"menu.search" = "Recherche";
+"menu.favorites" = "Mon Qobuz";
+"menu.purchases" = "Achats";
+"menu.imports" = "En local";
+"menu.imports.queue" = "Imports en cours";
+
+// Login
+"login.password.placeholder" = "Mot de passe";
+"login.email.placeholder" = "Email";
+"login.forgotPasswordView.title" = "Mot de passe oublié ?";
+"login.forgotPasswordBouton.title" = "Mot de passe oublié ?";
+
+// Boutons
+"button.cancel" = "Annuler";
+"button.validate" = "Valider";
+"button.edit" = "Éditer";
+"button.done" = "Terminer";
+"button.yes" = "Oui";
+"button.no" = "Non";
+"button.close" = "Fermer";
+"button.ok" = "OK";
+"button.tryAgain" = "Réessayer";
+"button.submit" = "Envoyer";
+
+// getFileUrl Errors
+"error.player.title" = "Lecture de %@";
+
+// Album Filter
+"album.filter.allgenre" = "Tous les genres";
+"play.mode.normal" = "Lire";
+"play.mode.random" = "Lire aléatoirement";
+
+// Album Detail
+"albums" = "albums";
+"album" = "album";
+"album.detail.showNumericBooklet" = "Voir le livret numérique";
+"album.detail.booklet.title" = "Livret";
+
+// Album Option
+"album.detail.option.seeArtist" = "Voir l'Artiste";
+"album.detail.option.see.label" = "Voir le label";
+"album.detail.option.seeAlbum" = "Voir l'Album complet";
+"album.detail.option.addToFav" = "Ajouter aux favoris";
+"album.detail.option.deleteFav" = "Supprimer des favoris";
+"album.detail.option.addToPlaylist" = "Ajouter aux playlists";
+
+// PlaylistList Filter
+"playlistList.filter.placeholder" = "Filtrer mes playlists";
+"playlistList.filter.showType" = "Préférences d'affichage";
+"playlistList.filter.showTypeList" = "Liste";
+"playlistList.filter.showTypeGrid" = "Grille";
+"playlistList.filter.showOrder" = "Ordre d'affichage";
+"playlistList.filter.showOrderCustom" = "Personnalisé";
+"playlistList.filter.showOrderAZ" = "Alphabétique";
+"playlistList.filter.showOrderByAlbums" = "Par albums";
+"playlistList.filter.showOrderByTracks" = "Par titres";
+"playlistList.filter.showOrderByArtists" = "Par artistes";
+"playlistList.filter.showOrderUpdatedAt" = "Date de mise à jour";
+"playlistList.filter.showContent" = "Contenu";
+"playlistList.filter.showAllAlbums" = "Afficher tous les albums";
+"playlistList.filter.showOnlyCompleteAlbums" = "N'afficher que les albums complets";
+
+// PlaylistList
+"playlistList.cell.owner" = "par %@";
+
+// Playlist
+"playlist.options.action.editPlaylist" = "Modifier les pistes";
+"playlist.options.action.editName" = "Modifier le nom";
+"playlist.options.action.editPrivacy" = "Modifier la confidentialité";
+"playlist.alertView.delete.confirm" = "Êtes-vous sûr de vouloir supprimer cette playlist ?";
+
+// Options
+"options.action.share" = "Partager";
+"options.action.delete" = "Supprimer";
+"options.action.importWithFormat" = "Importer en qualité ...";
+"options.action.importWithFormat.album" = "Importer le reste de l'album en qualité ...";
+"options.action.importWithFormat.playlist" = "Importer le reste de la playlist en qualité ...";
+"options.action.unimport" = "Supprimer de la musique locale";
+"options.action.uncache" = "Supprimer du cache";
+"options.action.subscribe" = "S'abonner";
+"options.action.unsubscribe" = "Se désabonner";
+"options.action.addToQueue" = "Ajouter à la file d'attente";
+"options.action.removeFromQueue" = "Supprimer de la file d'attente";
+"options.action.playNext" = "Lire ensuite";
+"options.action.createPlaylist" = "Créer une playlist";
+"options.action.clear" = "Vider";
+"options.action.clear.queue" = "Vider la file d'attente";
+"options.action.play" = "Lire";
+"options.action.empty.historic.confirmation.popup" = "Êtes-vous sûr(e) de vouloir vider votre historique ?";
+
+// Player
+"player.title" = "À l’écoute";
+"player.historic.title" = "Historique";
+"player.queue.title" = "File d'attente";
+"player.queue.empty" = "Vous n'avez aucun morceau à venir ensuite";
+"player.connect.title" = "Qobuz Connect";
+"player.alertView.clear.confirm" = "Êtes-vous sûr de vouloir vider votre file d'attente ?";
+
+// Player Queue Option
+"player.queue.option.title" = "Liste en cours";
+
+// Track Option
+"track.option.seeAlbum" = "Voir l'Album";
+"track.option.deleteFromPlaylist" = "Supprimer de la playlist";
+
+// Google Cast
+"googlecast.connect" = "Connexion à";
+"googlecast.ready" = "Prêt à caster la musique de Qobuz";
+"googlecast.disconnect" = "Déconnecter";
+"google.cast.empty.view.title" = "Chromecast";
+"google.cast.empty.nav.bar.title" = "Chromecast";
+"google.cast.connection.in.progress" = "Connexion en cours";
+"google.cast.connection.unknown" = "Aucun appareil Chromecast n'est connecté";
+"google.cast.connection.error" = "Une erreur est survenue durant la connexion à l'appareil Chromecast.\n Veuillez ré-essayer plus tard.";
+
+// Import / Achats / Favoris
+"mymusic.search.albums" = "Filtrer mes albums";
+"mymusic.search.tracks" = "Filtrer mes titres";
+"mymusic.search.artists" = "Filtrer mes artistes";
+"mymusic.search.playlists" = "Filtrer mes playlists";
+"mymusic.segmentedTitle.albums" = "Albums";
+"mymusic.segmentedTitle.tracks" = "Titres";
+"mymusic.segmentedTitle.artists" = "Artistes";
+"mymusic.segmentedTitle.playlists" = "Playlists";
+"mymusic.import.warning" = "Les imports se mettent en pause lorsque Qobuz n’est plus actif. Pensez à garder l’application ouverte et l’écran déverrouillé";
+"mymusic.playlists.empty.button" = "Voir mes playlists";
+"mymusic.favoris.displayOption.showOrderUpdatedAt" = "Date d'ajout";
+"mymusic.albums.empty.button" = "Découvrir les albums Qobuz";
+"mymusic.displayOption.showOrderUpdatedAt" = "Date d'import";
+"mymusic.displayOption.showOrderUpdatedAt.ascending" = "Date d'import (inverse)";
+"mymusic.purchases.albums.empty" = "Aucun album disponible\ndans vos achats";
+"mymusic.purchases.displayOption.showOrderUpdatedAt" = "Date d'achat";
+"mymusic.number.playlist.single" = "playlist";
+"mymusic.number.playlist.multiple" = "playlists";
+"mymusic.number.track.single" = "piste";
+"mymusic.number.track.multiple" = "pistes";
+"mymusic.number.artiste.single" = "artiste";
+"mymusic.number.artiste.multiple" = "artistes";
+
+// Cache
+"cache.size.unit.giga" = "Go";
+"cache.size.unit.mega" = "Mo";
+"cache.size.unit.kilo" = "Ko";
+"cache.size.unit" = "o";
+"cache.error.full.message" = "Votre espace de stockage est insuffisant";
+
+// Paramètres
+"settings.data.cacheType.0.title" = "Streaming";
+"settings.data.cacheType.1.title" = "Imports";
+"settings.data.cellular" = "Réseau mobile";
+"settings.data.wifi" = "Wi-Fi";
+"settings.data.format.27" = "Hi-Res - 24 bits / jusqu'à 192 kHz";
+"settings.data.format.7" = "Hi-Res - 24 bits / jusqu'à 96 kHz";
+"settings.data.format.6" = "CD - 16 bits / 44,1 kHz";
+"settings.data.format.5" = "MP3 - 320 kbps";
+"settings.data.notOverCellular" = "Désactivé";
+"settings.data.cacheType.0.warning" = "L’utilisation de la fonction streaming sur le réseau mobile peut entrainer des frais opérateurs supplémentaires";
+"settings.data.cacheType.1.warning" = "L’utilisation de la fonction d'import sur le réseau mobile peut entrainer des frais opérateurs supplémentaires";
+"settings.data.alert.hi-res.title" = "Important";
+"settings.data.alert.hi-res" = "Les fichiers Hi-Res sont volumineux et rempliront rapidement votre espace de stockage.\nPour une expérience d’écoute optimale\U00A0:\n• il vous faut un adaptateur lightning vers caméra USB et un DAC auto-alimenté compatible. Si vous utilisez directement la sortie audio jack, celle-ci limitera à une qualité proche du CD 16 bits / 44.1 kHz.\n• pour éviter les micro-coupures il est recommandé de ne pas importer en même temps.\nVoulez vous continuer ?";
+"settings.data.alert.hi-res.cellular" = "Une chose encore ! L'accès sur réseau mobile aux fichiers Hi-Res volumineux risque de consommer rapidement votre forfait data ou d'entrainer des frais d’opérateurs. Pour cette raison, nous vous recommandons de ne pas activer le Hi-Res sur réseau mobile. Souhaitez vous réellement continuer ?";
+"settings.storage.title" = "Stockage";
+"settings.storage.cache" = "Musique en cache";
+"settings.storage.cache.display" = "Afficher la musique en cache";
+"settings.storage.cache.max.size" = "Taille maximum du cache";
+"settings.storage.cache.delete" = "Supprimer la musique en cache";
+"settings.storage.import" = "Musique importée";
+"settings.storage.import.delete" = "Supprimer la musique importée";
+"settings.storage.import.delete.5" = "Musique importée en MP3";
+"settings.storage.import.delete.6" = "Musique importée en CD";
+"settings.storage.import.delete.7" = "Musique importée en Hi-Res";
+"settings.storage.import.delete.0" = "Toute la musique importée";
+"settings.storage.space" = "Espace occupé";
+"settings.storage.space.format" = "%@ / %@ disponibles";
+"settings.account.logout.confirm.title" = "Déconnexion";
+"settings.account.logout.confirm.message" = "L'ensemble de la musique importée sera supprimée de votre appareil";
+"settings.about.title" = "À propos";
+"settings.about.version" = "Version";
+"settings.about.share" = "Partager l'application";
+"settings.about.facebook" = "Qobuz sur Facebook";
+"settings.about.twitter" = "Qobuz sur Twitter";
+"settings.about.cgu" = "Conditions Générales d'Utilisation";
+"settings.about.customerServices" = "Consulter le centre d'aide";
+
+"settings.restore.purchase.success" = "Les achats ont été restaurés avec succès";
+"settings.restore.purchase.failed" = "Une erreur s'est produite durant la restauration de vos achats";
+"settings.restore.purchase.no.purchase" = "Aucun achat n'a été détecté pour votre compte.";
+"settings.interface" = "Interface";
+"settings.interface.langue" = "Langue de l'interface";
+"settings.interface.current.langue" = "Langue";
+"settings.interface.genre.selector" = "Sélection de genres";
+"settings.interface.lecture.header" = "Lecture";
+"settings.interface.lecture.title" = "Toujours lancer la lecture en plein écran";
+"settings.interface.genre.selector.title" = "Me souvenir de ma sélection de genres";
+"settings.interface.subscribe.popup.header" = "Offre streaming";
+"settings.interface.subscribe.popup.title" = "Afficher à l'ouverture";
+"settings.interface.share.logs.header" = "Débogage";
+"settings.interface.share.logs.title" = "Envoyer des infos de débogage";
+
+//myMusic
+"mymusic.albums" = "Mes Albums";
+"mymusic.artistes" = "Mes Artistes";
+"mymusic.playlists" = "Mes Playlists";
+"mymusic.tracks" = "Mes Titres";
+"mymusic.fav" = "Mes Favoris";
+"mymusic.achat" = "Mes Achats";
+"mymusic.played.recently" = "Joués récemment";
+"settings.screen.title" = "Paramètres";
+"settings.header_text" = "Choisissez votre qualité d’écoute.\nElle s’appliquera par défaut pour\nvos prochaines lectures.";
+"settings.header_text.import" = "Choisissez votre qualité d'import.\nElle s'appliquera par défaut pour vos prochains imports";
+"settings.about.site.web" = "Site web";
+"settings.langue.french" = "Français";
+"settings.langue.english" = "Anglais (UK)";
+"settings.langue.english.us" = "Anglais (US)";
+"settings.langue.deutch" = "Allemand";
+"settings.langue.italian" = "Italien";
+"settings.langue.spanish" = "Espagnol";
+"mymusic.partner.with" = "avec";
+
+/********** COMMON **********/
+"common.cancel" = "Annuler";
+"common.create" = "Créer";
+"common.see.all.masc" = "Voir tout ›";
+"common.see.all.fem" = "Voir toutes ›";
+"common.see.more" = "Voir plus";
+"common.read.more" = "Lire la suite...";
+"common.information" = "Information";
+"common.and" = "et";
+"common.or" = "Ou";
+"common.yes" = "Oui";
+"common.no" = "Non";
+"common.further" = "Plus tard";
+"common.by" = "Par";
+"common.done" = "Terminé";
+"common.not.yet" = "Pas encore";
+"common.ok" = "OK";
+"common.warning" = "Attention";
+"common.explicit" = "Explicit";
+"common.close" = "Fermer";
+"common.resume" = "Reprendre";
+"common.label" = "Label";
+"common.playlist" = "Playlist";
+"common.playlists" = "Playlists";
+"common.album" = "Album";
+"common.albums" = "Albums";
+"common.artist" = "Artiste";
+"common.artists" = "Artistes";
+"common.track" = "Titre";
+"common.tracks" = "Titres";
+"common.articles" = "Articles";
+"common.focus.article" = "Grand Angle";
+"common.focus.articles" = "Grands Angles";
+"common.composer" = "Compositeur";
+"common.duration" = "Durée";
+"common.month" = "mois";
+"common.enable" = "Activer";
+"common.article.to.read" = "À lire";
+"common.play.mode.normal" = "Lire";
+"common.play.mode.random" = "Lire aléatoirement";
+"common.quality.name.SMRPLUS" = "HI-RES";
+"common.quality.name.SMR" = "HI-RES";
+"common.quality.name.LLS" = "CD";
+"common.quality.name.MP3" = "MP3";
+
+// Errors
+"common.error.timeout" = "La requête a expirée";
+"common.error.unknown" = "Une erreur est survenue, veuillez ré-essayer plus tard";
+"common.error.import.notAvailable" = "Les ayant-droits n'ont pas rendu possible l'import de cet album";
+"common.error.feature.restricted.for.subscribed.members" = "La fonctionnalité n’est disponible que pour les abonnés";
+
+/********** MISC **********/
+"menu.featured" = "Découvrir";
+"description.title" = "Chronique album";
+"description.by" = "par";
+"genre.list.title" = "Genres";
+"genre.list.selectAll.Button.title" = "Tous";
+"genre.list.deselectAll.Button.title" = "Aucun";
+"genre.list.quickSelection.title" = "%@ seulement";
+
+/********** IMPORT **********/
+"import.long.press.title" = "Choisissez une qualité d'import";
+"import.queue.start.begin" = "L'import de";
+"import.queue.start.end" = "a démarré";
+"import.quality.name.SMRPLUS" = "Hi-Res - 24 bits / jusqu'à 192 kHz";
+"import.quality.name.SMR" = "Hi-Res - 24 bits / jusqu'à 96 kHz";
+"import.quality.name.LLS" = "CD - 16 bits / 44,1 kHz";
+"import.quality.name.MP3" = "MP3 - 320 kbps";
+
+
+/********** LABEL **********/
+"label.header.catalog" = "Catalogue";
+"label.no.data.to.show" = "Aucune information en rapport avec le label n'a pu être trouvée";
+
+/********** ARTICLE & FOCUS **********/
+"article.no.data.to.show" = "Aucun article n'a pu être trouvé";
+"article.details.no.data.to.show" = "L'article ne peut être affiché. Veuillez ré-essayer plus tard";
+"article.cell.owner" = "par %@";
+"focus.credits.photo" = "Photo : ";
+"focus.no.data.to.show" = "L'article Grand Angle ne peut être affiché";
+"focus.to.read.also" = "À lire également";
+"focus.list.no.data.to.show" = "Aucun Grand Angle ne peut être affiché. Veuillez ré-essayer plus tard";
+
+/********** ALBUM **********/
+"album.detail.no.data.to.show" = "Aucune information en rapport avec cet album n'a pu être trouvée";
+"album.detail.header.album.by" = "Album par";
+"album.quality.title.download.only" = "Téléchargement seulement";
+"album.quality.title.available" = "Disponible";
+"album.detail.same.artist.title" = "Du même artiste";
+"album.detail.disc.header" = "CD";
+"album.detail.track" = "piste";
+"album.detail.tracks" = "pistes";
+"album.detail.hi-res.available" = "bits";
+"album.detail.cd.available" = "Qualité CD 16-Bit";
+"album.detail.header.sampleRate.end" = "kHz - Stereo";
+"album.detail.header.sampleRate.end.5.1" = "kHz - Multicanal 5.1";
+"album.detail.label.from.begin" = "Parution chez";
+"album.detail.similarAlbums.title" = "À écouter également";
+"album.no.data.to.show" = "Aucun album n'a pu être trouvé";
+"album.alert.remove.from.local" = "Voulez vous supprimer l'album \"%@\" de votre musique locale ?";
+
+/********** TRACKS **********/
+"track.sample" = "extrait";
+"track.unavailable" = "non disponible";
+"track.no.data.to.show" = "Aucune piste n'a pu être trouvée";
+
+"options.action.addToQueue.ack" = "✓ Ajouté";
+"options.action.playNext.ack" = "✓ À suivre";
+"options.action.addToQueue.failure" = "Impossible d'ajouter la piste à la liste de lecture";
+
+"track.metadata.title" = "Crédit de la piste";
+"track.metadata.title.plural" = "Crédits de l'album";
+"track.metadata.Label.title" = "Label : ";
+"track.metadata.Composer.title" = "Compositeur : ";
+"track.metadata.duration" = "Durée : ";
+"track.metadata.credits.Header.title" = "Credits";
+
+/********** ARTISTS **********/
+"artist.discopgrahy.title" = "Discographie";
+"artist.detail.no.data.to.show" = "Aucune information en rapport avec cet artiste n'a pu être trouvée";
+"artist.similarArtists.title" = "À écouter également";
+"artiste.detail.LastRelease.title" = "Dernière nouveauté";
+"artiste.detail.AppearsOn.title" = "Apparaît sur";
+"artiste.detail.Tracks.title" = "Les meilleurs titres";
+
+"artist.list.no.data.to.show" = "Aucun artiste n'a pu être trouvé";
+
+/********** PLAYLISTS **********/
+"playlist.playlist.by" = "Playlist par";
+"playlist.collaborative" = "Playlist collaborative";
+"playlist.type2.playlist.by" = "par";
+"playlist.private" = "Playlist privée";
+"playlist.public" = "Playlist publique";
+"playlist.detail.similarPlaylists.title" = "À écouter également";
+"playlist.header.tracks" = "pistes";
+"playlist.header.track" = "piste";
+"playlist.detail.no.data.to.show" = "Aucune information en rapport avec cette playlist n'a pu être trouvée";
+"playlist.list.no.data.to.show" = "Aucune playlist n'a pu être trouvée";
+"playlist.detail.can.not.edit" = "La modification des titres de cette playlist n'est pas disponible pour le moment. Veuillez ré-essayer plus tard";
+"playlist.detail.track.edition.not.enough.tracks" = "La playlist ne contient aucune piste";
+"playlist.detail.track.edition.confirmation.title" = "Validation des modifications";
+"playlist.detail.track.edition.confirmation.message" = "Souhaitez-vous valider les modifications apportées à cette playlist ?";
+"playlist.see.all.tracks" = "Voir la playlist complète";
+"playlist.alert.remove.from.local" = "Voulez vous supprimer la playlist \"%@\" de votre musique locale ?";
+
+// Add to playlist
+"selectPlaylist.title" = "Ajouter à une playlist";
+"playlist.create.placeHolder" = "Titre";
+"playlist.alertView.editName.message" = "Le nom rensigné pour la playlist ne peut être vide";
+"playlist.alertView.createPlaylist.title" = "Nouvelle playlist";
+
+/********** SEARCH **********/
+"search.albums" = "albums";
+"search.section.articles" = "Dans le magazine";
+"search.history.deleteBtn" = "Effacer";
+"search.recent.title" = "Recherches récentes";
+
+/********** DISCOVER **********/
+"discover.first.level.title.featured.albums" = "Nouveautés";
+"discover.first.level.title.playlist" = "Les playlists Qobuz";
+"discover.first.level.title.focus" = "Grands Angles";
+"discover.first.level.title.explore" = "Le goût de Qobuz";
+"discover.first.level.title.articles" = "À la une";
+"discover.second.level.title.new.releases.full" = "La grande sélection Qobuz";
+"discover.second.level.title.recent.releases" = "Encore d'actualité";
+"discover.second.level.title.press.awards" = "Sélectionnés par la presse";
+"discover.second.level.title.charts" = "Albums les plus écoutés";
+"discover.second.level.title.qobuz" = "Qobuzissimes";
+"discover.second.level.title.discography" = "Discothèque idéale";
+"discover.second.level.playlist.playlists" = "Toutes les playlists";
+"discover.second.level.playlist.title.news" = "Nouveautés";
+"discover.second.level.playlist.title.focus" = "Thématiques";
+"discover.second.level.playlist.title.inthe" = "Dans le casque de...";
+"discover.second.level.playlist.title.label" = "Histoires de labels";
+"discover.second.level.playlist.title.mood" = "Humeurs";
+"discover.second.level.playlist.empty.list.title" = "Aucun résultat";
+"discover.second.level.playlist.empty.list.button" = "Réinitialiser les filtres";
+"discover.second.level.title.news" = "Actualité";
+"discover.second.level.title.hifi" = "Hi-Fi";
+"discover.second.level.title.videos" = "Vidéos";
+"discover.no.data" = "Aucune donnée n'a pu être trouvée";
+
+/********** OPTIONS **********/
+"options.album" = "album";
+"options.albums" = "albums";
+"options.no.data.label" = "Aucune option à utiliser pour le moment";
+"options.playlist.popup.title" = "Nom de la playlist";
+"options.playlist.popup.message" = "Veuillez renseigner un nouveau nom pour la playlist";
+"options.playlist.playlist.by" = "Playlist par";
+"options.playlist.rename.placeHolder" = "Nom de la playlist";
+"options.playlist.delete.message" = "Êtes-vous sûr de vouloir supprimer cette playlist ?";
+
+/********** SHARING **********/
+"share.sms.track" =  "Écoute %1$@ par %2$@ sur Qobuz https://open.qobuz.com/track/%3$@\nApp dispo sur https://www.qobuz.com/apps";
+"share.sms.album" =  "Écoute l'album %1$@ par %2$@ sur Qobuz open.qobuz.com/album/%3$@\nApp dispo sur qobuz.com/apps";
+"share.sms.artist" =  "Écoute %1$@ sur Qobuz open.qobuz.com/artist/%2$@\nApp dispo sur qobuz.com/apps";
+"share.sms.playlist" = "Écoute la playlist %1$@ par %2$@ sur Qobuz open.qobuz.com/playlist/%3$@\nApp dispo sur qobuz.com/apps";
+"share.sms.application" = "Télécharge l'application Qobuz pour iOS et Android sur qobuz.com/apps";
+
+"share.article" = "À lire : https://www.qobuz.com%1$@";
+"share.focus" = "À lire : http://open.qobuz.com/focus/%1$@";
+"share.focus.footer" = "\n\nQobuz est le premier service d'écoute et de téléchargement de musique en haute-qualité.\n\nPlus d'informations et inscription sur Qobuz.com.";
+
+"share.mail.footer" = "<br/>App dispo sur <a>https://www.qobuz.com/apps</a>";
+
+"share.mail.track.subject" = "%1$@ par %2$@ sur Qobuz";
+"share.mail.track.body" = "Ecoutez %1$@ par %2$@ avec <a href=\"https://open.qobuz.com/track/%3$@\">Qobuz sur mobile</a> en haute qualité.<br/>Et dans le navigateur sur https://open.qobuz.com/track/%3$@";
+"share.mail.album.subject" = "Écoute l'album %1$@ par %2$@ sur Qobuz";
+"share.mail.album.body" = "Écoute l'album %1$@ par %2$@ sur Qobuz.\n\n http://open.qobuz.com/album/%3$@\n";
+
+"share.mail.artist.subject" = "%1$@ sur Qobuz";
+"share.mail.artist.body" = "Ecoutez %1$@ avec <a href=\"open.qobuz.com/artist/%2$@\">Qobuz sur mobile</a> en haute qualité.<br/>Et dans le navigateur sur http://open.qobuz.com/artist/%2$@";
+
+"share.mail.playlist.subject" = "%1$@ par %2$@ sur Qobuz";
+"share.mail.playlist.body" = "Ecoutez %1$@ par %2$@ avec <a href=\"open.qobuz.com/playlist/%3$@\">Qobuz</a> en haute qualité.<br/>Et dans le navigateur sur http://open.qobuz.com/playlist/%3$@";
+
+"share.mail.application.subject" ="Téléchargez l'application Qobuz";
+"share.mail.application.body" = "Télécharger l'application <a href=\"qobuz.com/apps\">Qobuz sur iOS et Android</a> pour accéder à votre musique en haute-qualité en Wi-Fi et sur le réseau mobile.<br/><br/>Plus d'informations sur <a href=\"http://qobuz.com\">Qobuz.com</a>.";
+
+"share.twitter.track" = "J'écoute %1$@ par %2$@ #NowListening #Qobuz https://open.qobuz.com/track/%3$@";
+"share.twitter.album" = "J'écoute %1$@ par %2$@ #NowListening #Qobuz http://open.qobuz.com/album/%3$@";
+"share.twitter.artist" = "J'écoute %1$@ #NowListening #Qobuz http://open.qobuz.com/artist/%2$@";
+"share.twitter.playlist" = "J'écoute %1$@ par %2$@ #NowListening #Qobuz http://open.qobuz.com/playlist/%3$@";
+"share.twitter.application" = "Télécharger l'application Qobuz pour iOS et Android www.qobuz.com/apps #Qobuz";
+
+"share.facebook.track" = "J'écoute %1$@ par %2$@ #NowListening #Qobuz https://open.qobuz.com/track/%3$@";
+"share.facebook.album" = "J'écoute %1$@ par %2$@ #NowListening #Qobuz http://open.qobuz.com/album/%3$@";
+"share.facebook.artist" = "J'écoute %1$@ #NowListening #Qobuz http://open.qobuz.com/artist/%2$@";
+"share.facebook.playlist" = "J'écoute %1$@ par %2$@ #NowListening #Qobuz http://open.qobuz.com/playlist/%3$@";
+"share.facebook.application" = "Télécharger l'application Qobuz pour iOS et Android www.qobuz.com/apps #Qobuz";
+
+"share.default.track" = "https://open.qobuz.com/track/%1$@";
+"share.default.album" = "http://open.qobuz.com/album/%1$@";
+"share.default.artist" = "http://open.qobuz.com/artist/%1$@";
+"share.default.playlist" = "http://open.qobuz.com/playlist/%1$@";
+
+/********** TUTORIAL HI-RES **********/
+"tutorial.hi.res.header.full" = "Comment écouter en Hi-Res 24-Bit dans Qobuz";
+"tutorial.hi.res.header.bold" = "Hi-Res 24-Bit";
+"tutorial.hi.res.header.blue" = "Qobuz";
+"tutorial.hi.res.container.top.title" = "Le streaming et l'import hors-ligne en Hi-Res 24-Bit sont accessibles aux abonnés :";
+"tutorial.hi.res.container.bottom.title" = "Les clients téléchargement Qobuz peuvent également écouter leurs achats à l'acte Hi-Res depuis l'application. Dans ce cas il est nécessaire de télécharger l'album au préalable.";
+"tutorial.hi.res.container.bottom.title.bold.part" = "Les clients téléchargement Qobuz";
+"tutorial.hi.res.dac.top.label" = "L'audio Hi-Res nécessite l'emploi d'un appareil adapté :";
+"tutorial.hi.res.dac.middle.label" = "un DAC";
+"tutorial.hi.res.dac.bottom.label" = "(Digital to Analog Converter, une carte son externe prenant en change la partie audio de l'appareil)";
+"tutorial.hi.res.audio.device" = "Écouter en Hi-Res depuis la sortie audio de votre téléphone";
+"tutorial.hi.res.audio.device.top.label" = "Un adaptateur Lightning vers Caméra USB Apple";
+"tutorial.hi.res.audio.device.middle.label" = "Un DAC auto-alimenté et compatible";
+"tutorial.hi.res.audio.device.bottom.label" = "D'un Adaptateur Lightning vers mini-jack 3,5mm";
+"tutorial.hi.res.audio.hifi" = "Écouter depuis un appareil Hi-Fi compatible";
+"tutorial.hi.res.audio.hifi.top.label" = "Vous pouvez également profiter de Qobuz en Hi-Res 24-Bit depuis un appareil compatible.";
+"tutorial.hi.res.audio.hifi.bottom.label" = "Pour voir la liste de nos intégrations partenaires, cliquez-ici";
+"tutorial.hi.res.audio.hifi.bottom.blue.part" = "cliquez-ici";
+
+/********** REGISTER ROOT **********/
+"register.createAccount.title" = "Créer un compte";
+"register.root.carousel.message.1" = "Écoutez plus de 40 millions de titres en qualité supérieure.";
+"register.root.carousel.message.2" = "Profitez des meilleures nouveautés sélectionnées par nos équipes de passionnés.";
+"register.root.carousel.message.3" = "Explorez nos contenus éditoriaux exclusifs : articles, chroniques, interviews…";
+
+"login.title" = "Connexion";
+"login.facebook.title" = "Connexion avec Facebook";
+"login.textfields.empty" = "Veuillez remplir les deux champs avant de vous connecter";
+"login.error.invalidUserName" = "Identifiant ou mot de passe invalide";
+"login.error.reachMaxDeviceNumber" = "Nombre maximum d'appareils autorisés atteint";
+
+/********** LOGIN INTERACTOR **********/
+"login.interactor.soft.logout.has.been.made" = "Afin de continuer à utiliser l'application, vous devez vous reconnecter";
+"login.interactor.right.lost.begin" = "Votre abonnement a été modifié. Vous ne pouvez plus :\n\n";
+"login.interactor.right.streaming.lost" = ". Streamer de la musique\n";
+"login.interactor.right.offline.lost" = ". Importer de la musique\n";
+"login.interactor.right.lossless.lost" = ". Streamer de la musique en qualité CD ni en Hi-Res\n";
+"login.interactor.right.lossy.lost" = ". Streamer de la musique en qualité MP3\n";
+"login.interactor.right.lost.end" = "\nVotre bibliothèque locale sera modifiée en conséquences";
+"login.interactor.right.zone.changed" = "Votre abonnement a changé de zone. Votre bibliothèque locale sera modifiée en conséquences";
+
+/********** REGISTER **********/
+"register.step.email.address" = "Votre adresse email";
+"register.step.username" = "Pseudonyme";
+"register.step.password" = "Mot de passe";
+"register.step.password.details" = "Au moins 8 charactères avec 1 lettre en majuscules et 1 chiffre";
+"register.step.birthdate" = "Date de naissance";
+"register.step.birthdate.day" = "jj";
+"register.step.birthdate.month" = "mm";
+"register.step.birthdate.year" = "aaaa";
+
+"register.step.gender.title" = "Vous êtes :";
+"register.step.gender.male" = "Homme";
+"register.step.gender.female" = "Femme";
+"register.step.gender.other" = "Autre";
+"register.step.username.nextBtnTitle" = "Suivant";
+"register.step.password.not.compliant.error" = "Le mot de passe ne respecte pas les exigences de complexité";
+"register.step.textfield.error.empty" = "Le champ est vide, veuillez renseigner une valeur valide";
+"register.step.birthdate.error" = "Veuillez vérifier votre date de naissance !";
+"register.step.confirmation.cgvTextView.text" = "En cliquant sur s'inscrire, vous acceptez les CGUV de Qobuz. Jamais Qobuz ne prête, vend ou loue la data de ses clients !";
+"register.step.confirmation.cgvTextView.text.to.underline" = "CGUV de Qobuz";
+"register.step.confirmation.username.title" = "Identifiant";
+"register.step.confirmation.email.title" = "Adresse e-mail";
+"register.step.confirmation.birthday.title" = "Date de naissance";
+"register.step.confirmation.subscribeBtn.title" = "S'inscrire";
+"register.step.subscribe.periodEssaie.title" = "mois offert";
+"register.step.subscribe.periodEssaie.title.plural" = "mois offerts";
+"register.step.subscribe.subscribeBtn.title" = "Essayez gratuitement";
+"register.step.subscribe.noSubscribeBtn.title" = "Plus tard";
+"register.step.subscribe.cgv" = "Conditions Générales de Vente";
+"register.step.subscribe.footer" = "Offre d'essai avec renouvellement automatique sans engagement : votre carte ne sera pas débitée avant le %@. Annulez sans frais à tout moment.";
+"register.step.subscribe.footer.details" = "- Le paiement sera facturé au compte iTunes à la confirmation de l’achat\n- L’abonnement sera automatiquement renouvelé à moins que le renouvellement automatique ait été désactivé au moins 24 heures avant la fin de la période en cours\n- Le compte sera facturé pour le renouvellement dans les 24 heures précédent la fin de la période en cours\n- L’utilisateur peut gérer ses abonnements et désactiver le renouvellement automatique en visitant les Paramètres de son compte utilisateur après achat\n- Toute partie inutilisée d’une période d’essai sera déduite lorsque l’utilisateur achètera l’abonnement y étant relatif";
+"register.step.subscribe.no.offer.title" = "Aucune offre n'est actuellement disponible";
+"register.step.subscribe.no.offer.button" = "Je reviendrai plus tard";
+"register.step.subscribe.no.selected.offer" = "Veuillez sélectionner une offre avant de poursuivre";
+"inapp.purchase.common.error" = "Impossible de vérifier votre abonnement, veuillez ré-essayer plus tard en utilisant le menu \"Restaurer mes achats\" dans la section \"Mon Qobuz\"";
+"inapp.purchase.offer.description.1" = "40 millions de titres";
+"inapp.purchase.offer.description.2" = "Même sans connexion";
+"inapp.purchase.offer.description.3" = "Sur tous vos appareils";
+"inapp.purchase.offer.description.4" = "Sans engagement";
+"inapp.purchase.offer.description.5" = "Nos recommandations";
+"inapp.purchase.offer.description.6" = "Articles exclusifs";
+"inapp.purchase.offer.description.7" = "Livrets numériques";
+"inapp.purchase.offer.description.8" = "Métadonnées";
+"inapp.purchase.offer.description.9" = "Ecoute illimitée";
+"inapp.purchase.offer.description.studio.1" = "Qualité CD ou Studio";
+"inapp.purchase.offer.description.studio.3" = "Qualité Studio";
+"inapp.purchase.offer.description.button.seeAll" = "+  Voir tous";
+"inapp.purchase.offer.description.button.seeLess" = "-  Réduire";
+"inapp.purchase.offer.description.soundQuality" = "Qualité de son";
+"inapp.purchase.offers.title" = "OFFRES STREAMING";
+"inapp.purchase.offers.title.qobuz" = "Optez pour la différence Qobuz";
+"inapp.purchase.offers.starting.price" = "Dès %@ par mois";
+"inapp.purchase.offers.monthly.price" = "%@ puis %@";
+"inapp.purchase.offers.new.monthly.price" = "puis %@ par mois";
+"inapp.purchase.offers.free.period" = "%d mois d'essai offert.";
+"inapp.purchase.offers.free.period.highlighted" = "offert.";
+"inapp.purchase.offers.free.period.plural" = "%d mois d'essai offerts.";
+"inapp.purchase.offers.free.period.plural.highlighted" = "offerts.";
+"inapp.purchase.offer.tryFree.title" = "Essayer gratuitement";
+"inapp.purchase.offer.change.title" = "Modifier";
+"inapp.purchase.offer.choice.title" = "Vous avez choisi :";
+"inapp.purchase.banner.seeOffers.title" = "Voir les offres";
+"inapp.purchase.banner.title" = "Débloquez l'écoute illimitée";
+"inapp.purchase.error.oups" = "Oups !";
+
+"become.member.offer.validate.button.title" = "1 MOIS OFFERT";
+"become.member.offer.period" = "1 MOIS D'ESSAI OFFERT.";
+"become.member.offer.start.trial" = "COMMENCER MA PÉRIODE D'ESSAI";
+"become.member.offer.commitment" = "Sans engagement.";
+"become.member.button.later" = "Plus tard";
+
+"studio.premier.offer.limited.offer" = "OFFRE LIMITÉE";
+"studio.premier.offer.details.price" = "1 mois gratuit, puis %@ / mois";
+"studio.premier.offer.details.cancel.no.penalty" = "Annulez sans frais à tout moment.";
+"studio.premier.offer.details.free.trial.period" = "PÉRIODE D'ESSAI GRATUITE";
+"studio.premier.offer.details.first.bill" = "Première facture:";
+
+"register.zip.code.invalid" = "Votre code postal est invalide";
+"register.country.title" = "Désolé ...";
+"register.country.subtitle" = "Malheureusement, Qobuz n’est pas disponible actuellement dans votre pays.";
+"register.country.text" = "Vous avez déjà un compte? Connectez-vous.";
+"register.offline.title" = "Vous êtes Hors-Ligne";
+"register.offline.subtitle" = "Vous devez vous connecter à internet pour s’abonner à Qobuz";
+"register.zipCode.textfield" = "Entrez votre Code Postal";
+"register.resume.zipCodeTitle" = "Code Postal";
+
+/********** LAUNCH TUTORIAL **********/
+"launch.tutorial.genre.choice.subtitle.subscribed" = "Votre abonnement %@ a démarré!\nPersonnalisez votre expérience en indiquant vos genres musicaux préférés.\nVous pouvez en sélectionner plusieurs.";
+"launch.tutorial.genre.choice.subtitle.notSubscribed" = "Votre inscription à bien été prise en compte!\nPersonnalisez votre expérience en indiquant vos genres musicaux préférés.\nVous pouvez en sélectionner plusieurs.";
+"launch.tutorial.notifications.title" = "Restez à la page !";
+"launch.tutorial.notifications.message.principal" = "Suivez l'actualité musicale, recevez des conseils d'utilisation et des informations importantes à propos de votre compte.";
+"launch.tutorial.notifications.yes" = "Oui !";
+"launch.tutorial.notifications.message.footer" = "Vous pouvez modifier vos préférences à tout moment.";
+"launch.tutorial.welcome.title" = "Bienvenue sur";
+
+/********** SETTINGS **********/
+"settings.list.streaming" = "Streaming";
+"settings.list.import" = "Imports";
+"settings.list.storage" = "Stockage";
+"settings.list.interface" = "Interface";
+"settings.list.purchases.restore" = "Restaurer mes achats";
+"settings.list.about" = "À propos";
+"settings.list.logout" = "Se déconnecter";
+
+// Interface
+"settings.interface.color.theme" = "Thème";
+"settings.interface.dark.mode" = "Mode sombre";
+"settings.interface.dark.mode.needs.to.restart" = "L'application doit redémarrer pour prendre en compte le changement de thème.\nÊtes-vous sûr de vouloir continuer ?";
+
+// Quality Settings (Common)
+"settings.quality.streaming.mobile.data.usage" = "L’utilisation de la fonction Streaming sur le réseau mobile peut entraîner des frais opérateurs supplémentaires";
+"settings.quality.import.mobile.data.usage" = "L’utilisation de la fonction Import sur le réseau mobile peut entraîner des frais opérateurs supplémentaires";
+"settings.quality.subscription.common.disabled" = "Abonnement : désactivé";
+"settings.quality.purchase.common.disabled" = "Achats : désactivé";
+
+// Quality Settings (Streaming)
+"settings.quality.streaming.subscription.no.rights" = "Abonnement : pas de droits Streaming sur le catalogue Qobuz";
+"settings.quality.streaming.subscription.mp3" = "Abonnement : Streaming en qualité MP3 (320 kbps) sur le catalogue Qobuz dans le cadre de votre abonnement %1$@";
+"settings.quality.streaming.subscription.CD" = "Abonnement : Streaming en qualité CD (16 bits / 44.1 kHz) sur le catalogue Qobuz dans le cadre de votre abonnement %1$@";
+"settings.quality.streaming.subscription.HiRes" = "Abonnement : Streaming jusqu’en qualité Hi-Res (24 bits / %1$@ kHz) sur le catalogue Qobuz dans le cadre de votre abonnement %2$@";
+"settings.quality.streaming.purchase.mp3" = "Achats : Streaming en qualité  MP3 (320 kbps) sur tous vos achats";
+"settings.quality.streaming.purchase.CD" = "Achats : Streaming en qualité CD (16 bits / 44.1 kHz) sur tous vos achats";
+"settings.quality.streaming.purchase.HiRes" = "Achats : Streaming jusqu’en qualité Hi-Res (24 bits / %1$@ kHz) en fonction de votre qualité d’achat";
+
+// Quality Settings (Import)
+"settings.quality.import.subscription.no.rights" = "Abonnement : pas de droits Import sur le catalogue Qobuz";
+"settings.quality.import.subscription.mp3" = "Abonnement : Import en qualité MP3 (320 kbps) sur le catalogue Qobuz dans le cadre de votre abonnement %1$@";
+"settings.quality.import.subscription.CD" = "Abonnement : Import en qualité CD (16 bits / 44.1 kHz) sur le catalogue Qobuz dans le cadre de votre abonnement %1$@";
+"settings.quality.import.subscription.HiRes" = "Abonnement : Import jusqu’en qualité Hi-Res (24 bits / %1$@ kHz) sur le catalogue Qobuz dans le cadre de votre abonnement %2$@";
+"settings.quality.import.purchase.mp3" = "Achats : Import en qualité  MP3 (320 kbps) sur tous vos achats";
+"settings.quality.import.purchase.CD" = "Achats : Import en qualité CD (16 bits / 44.1 kHz) sur tous vos achats";
+"settings.quality.import.purchase.HiRes" = "Achats : Import jusqu’en qualité Hi-Res (24 bits / %1$@ kHz) en fonction de votre qualité d’achat";
+
+// Storage
+"settings.cache.limit.confirmation.message" = "Vous êtes sur le point de changer la taille du cache ; si la nouvelle taille est inférieure à la taille précédemment paramétrée, la musique stockée en cache pourra être supprimée. Voulez-vous continuer ?";
+
+// Optin
+"optin.step" = "Étape %@/%@";
+"optin.improve.experience.title" = "Personnalisez votre expérience Qobuz en précisant vos préférences ci-dessous.";
+"optin.skip" = "Plus tard";
+"optin.favorite.music.genre.title" = "Quels sont vos genres musicaux préférés ?";
+"optin.up.to.date.title" = "Quel type de communication souhaitez-vous recevoir ?";
+
+/********** LOCAL LIBRARY **********/
+"local.library.can.not.play.all.content" = "Aucune piste n'est à jouer";
+
+/********** FULL PLAYER **********/
+"player.historic.clear" = "Vider";
+
+"full.player.playqueue.move.track.error" = "Impossible de modifier la position de cette piste dans la liste de lecture";
+"full.player.playqueue.remove.track.error" = "Impossible de supprimer la piste de la liste de lecture";
+"full.player.stream.without.track.title.error" = "Impossible de streamer la piste car une erreur est survenue";
+"full.player.stream.with.track.title.error" = "Impossible de streamer la piste %@ car une erreur est survenue";
+"player.error.listening.on.multiple.devices.title" = "Lecture interrompue";
+"player.error.listening.on.multiple.devices.message" = "La musique a été interrompue car votre compte Qobuz est utilisé sur un autre appareil.";
+"player.error.showing.metadata" = "Impossible d'afficher les métadata de l'album pour le moment. Veuillez ré-essayer plus tard";
+"player.error.5_1.quality.not.available" = "Cette qualité d'écoute n'est pas disponible avec l'application";
+
+"player.track.quality.mp3" = "QUALITÉ MP3";
+"player.track.quality.cd" = "QUALITÉ CD";
+"player.track.quality.hiRes" = "HI-RES / %@ kHz";
+"player.track.quality.samling.rate.unknown" = "-";
+"player.track.quality.unknown" = "QUALITÉ INCONNUE";
+"player.track.about" = "Crédits de la piste";
+"player.track.about.album" = "Crédits complets";
+"player.track.about.description" = "Chronique album";
+"player.history.empty" = "Votre historique est vide";
+
+"player.queue.section.previous" = "Pistes précédentes";
+"player.queue.section.current" = "Piste en cours";
+"player.queue.section.next" = "Pistes suivantes";
+
+"qobuz.connect.airplay.and.bluetooth.title" = "Airplay & Bluetooth";
+"qobuz.connect.airplay.and.bluetooth.subtitle" = "Liste des appareils disponibles";
+"player.connect.select" = "Selectionnez votre sortie audio";
+"player.connect.description" = "Jouez votre musique sur n'importe quel appareil disponible";
+"qobuz.connect.google.cast.already.connected" = "L'application est déjà connectée à appareil Chromecast. Veuillez vous déconnecter de celui-ci avant de sélectionner une nouvelle sortie audio.\nSouhaitez-vous déconnecter l'application de l'appareil Chromecast courant ?";
+
+/********** IMPORT **********/
+"import.error.unable.to.download" = "Impossible de télécharger la piste %@ car une erreur est survenue";
+"import.error.unable.to.download.playlist" = "Impossible de télécharger la playlist %1$@ :\n%2$@";
+"import.error.network" = "L'import des pistes est en pause suite à une perte de connexion";
+"import.format.bitrate.new.to.use" = "%@ bits - %@ kHz";
+"import.format.bitrate.unknown.new.to.use" = "- bits, - kHz";
+"import.format.bitrate.27" = "24 bits / 192 kHz";
+"import.format.bitrate.7" = "24 bits / 96 kHz";
+"import.format.bitrate.6" = "16 bits / 44.1 kHz";
+"import.format.bitrate.5" = "320 kbps";
+"import.format.bitrate.0" = "Pas de connexion";
+"import.queue.progress.format" = "%@ / %@";
+"import.queue.empty" = "Toutes vos pistes ont\ncorrectement été importées";
+"import.queue.next" = "SUIVANTS";
+"import.download.failure" = "Impossible d'importer la piste, aucune connexion internet disponible.";
+"import.network.lost" = "L'import a été mis en pause car la connexion internet a été perdue.";
+"import.queue.cancel" = "Annuler l'import des pistes restantes";
+"import.queue.start" = "L'import de %@ a démarré";
+
+/********** DARK MODE TUTORIAL **********/
+"dark.mode.tutorial.page.1.title" = "Thème sombre";
+"dark.mode.tutorial.page.1.content" = "Un thème sombre de l'interface Qobuz est maintenant disponible !\n\nBalayez l'écran à gauche pour en avoir un aperçu ou activez-le dès maintenant.";
+"dark.mode.tutorial.page.1.enable.button" = "Activer le thème sombre";
+"dark.mode.tutorial.page.1.not.now" = "Plus tard";
+
+"dark.mode.tutorial.page.2.standard.theme" = "Thème standard";
+"dark.mode.tutorial.page.2.default.by" = "(par défaut)";
+"dark.mode.tutorial.page.3.dark.theme" = "Thème sombre";
+"dark.mode.tutorial.page.3.new" = "(nouveau !)";
+
+"dark.mode.tutorial.page.4.title" = "Sélection du thème";
+"dark.mode.tutorial.page.4.content" = "Pour changer de thème ultérieurement selon vos envies, c'est très simple :";
+"dark.mode.tutorial.page.4.point.1" = "Rendez-vous dans l'onglet Mon Qobuz.";
+"dark.mode.tutorial.page.4.point.1.to.highlight" = "Mon Qobuz";
+"dark.mode.tutorial.page.4.point.2" = "Accédez aux Paramètres de l'application.";
+"dark.mode.tutorial.page.4.point.2.to.highlight" = "Paramètres";
+"dark.mode.tutorial.page.4.point.3" = "Dans la section Interface, activez ou désactivez le thème sombre.";
+"dark.mode.tutorial.page.4.point.3.to.highlight" = "Interface";
+
+"dark.mode.tutorial.page.4.enable" = "Activez le thème sombre";
+"dark.mode.tutorial.page.4.close" = "Fermer";
+"dark.mode.tutorial.page.4.close.subtitle" = "(conserver le thème par défaut)";
