@@ -823,7 +823,3 @@
 "dark.mode.tutorial.page.4.enable" = "Activez le thème sombre";
 "dark.mode.tutorial.page.4.close" = "Fermer";
 "dark.mode.tutorial.page.4.close.subtitle" = "(conserver le thème par défaut)";
-
-/********** Test Transifex Integration **********/
-"transifex.test" = "Test, j'espère que ça marche !";
-
