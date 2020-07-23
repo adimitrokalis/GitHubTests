@@ -28,7 +28,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"%(customer_name)s a effectué les étapes suivantes dans MotoCommerce:\n"
+"        %(customer_name)s previously completed the following steps in Motocommerce:\n"
 "      "
 
 #, python-format
