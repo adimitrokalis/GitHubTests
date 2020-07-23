@@ -1,0 +1,3190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Anthony Dimitrokalis <anthonydim@transifex.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-22 01:39-0400\n"
+"PO-Revision-Date: 2020-07-23 09:07+0000\n"
+"Last-Translator: Anthony Dimitrokalis <anthonydim@transifex.com>, 2020\n"
+"Language-Team: French (Canada) (https://www.transifex.com/transifex-93/teams/111911/fr_CA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#, python-format
+msgid ""
+"\n"
+"        %(customer_name)s previously completed the following steps in Motocommerce:\n"
+"      "
+msgstr ""
+"\n"
+"%(customer_name)s a effectué les étapes suivantes dans MotoCommerce:\n"
+"      "
+
+#, python-format
+msgid ""
+"\n"
+"        Charge for %(vehicle_model)s (%(dealership_name)s Deposit)\n"
+"      "
+msgstr ""
+"\n"
+"        Dépôt pour %(vehicle_model)s (%(dealership_name)s Deposit)\n"
+"      "
+
+#, python-format
+msgid ""
+"\n"
+"        Phone number: %(phone)s\n"
+"      "
+msgstr ""
+"\n"
+"Téléphone: %(phone)s\n"
+"      "
+
+#, python-format
+msgid ""
+"\n"
+"        Preferred Language: %(customer_language)s\n"
+"      "
+msgstr ""
+"\n"
+"        Langue préférée: %(customer_language)s\n"
+"      "
+
+#, python-format
+msgid ""
+"\n"
+"        The application is now available in %(finance_portal)s and MotoCommerce for you to review.\n"
+"      "
+msgstr ""
+"\n"
+"        La demande est disponible et prête à être révisée dans %(finance_portal)s et MotoCommerce.\n"
+"      "
+
+#, python-format
+msgid ""
+"\n"
+"      %(customer_name)s has created an account with %(dealership_name)s\n"
+"      on MotoCommerce.\n"
+"    "
+msgstr ""
+"\n"
+"      %(customer_name)s a créé un compte chez %(dealership_name)s sur MotoCommerce."
+
+#, python-format
+msgid ""
+"\n"
+"      %(customer_name)s has paid a deposit on the following vehicle from\n"
+"      your dealership:\n"
+"    "
+msgstr ""
+"\n"
+"%(customer_name)s a versé un dépôt pour le véhicule suivant de votre concession:"
+
+#, python-format
+msgid ""
+"\n"
+"      %(customer_name)s has recently logged into their Motocommerce account and reviewed their deal.\n"
+"      <br/>\n"
+"      <br/>\n"
+"      As a reminder, %(customer_name)s first created their account on %(created_on)s and is interested in %(vehicle)s.\n"
+"    "
+msgstr ""
+"\n"
+"      %(customer_name)s s’est récemment connecté(e) à son compte MotoCommerce et a examiné son offre.\n"
+"      <br/>\n"
+"      <br/>\n"
+"      Rappel: %(customer_name)s a créé son compte le %(created_on)s et s’intéresse à %(vehicle)s.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      %(customer_name)s has requested an appraisal on their trade-in vehicle\n"
+"      from %(dealership_name)s.\n"
+"      <br/>\n"
+"      <br/>\n"
+"      Please log into MotoCommerce for additional information to complete the\n"
+"      appraisal, including vehicle details, pictures, and the vehicle's history.\n"
+"    "
+msgstr ""
+"\n"
+"      %(customer_name)s a demandé une évaluation de son véhicule d’échange auprès de %(dealership_name)s.\n"
+"      <br/>\n"
+"      <br/>\n"
+"      Veuillez vous connecter à MotoCommerce pour consulter les renseignements additionnels (détails du véhicule, photos et historique) requis pour effectuer l’évaluation.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      %(customer_name)s has submitted a credit application to %(dealership_name)s.\n"
+"    "
+msgstr ""
+"\n"
+"      %(customer_name)s a présenté une demande de crédit à %(dealership_name)s.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      %(dealer_first_name)s has invited you to join %(dealership_name)s on\n"
+"      MotoCommerce.\n"
+"      <br><br>\n"
+"      To get started, click the button to create your password and log in.\n"
+"    "
+msgstr ""
+"\n"
+"      %(dealer_first_name)s vous a invité à joindre %(dealership_name)s sur MotoCommerce.\n"
+"      <br><br>\n"
+"      Pour commencer, cliquez sur le bouton pour créer votre mot de passe et ouvrir une session.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      Customer name: %(customer_name)s<br>\n"
+"      Customer email: %(customer_email)s<br>\n"
+"      Phone: %(customer_phone)s<br>\n"
+"      <br>\n"
+"      Subject: %(help_message)s<br>\n"
+"      <br>\n"
+"      URL: %(url)s<br>\n"
+"      Dealership name: %(dealership_name)s\n"
+"    "
+msgstr ""
+"\n"
+"Nom du client: %(customer_name)s<br>Courriel du client: %(customer_email)s<br>Téléphone: %(customer_phone)s<br>\n"
+"      <br>Objet: %(help_message)s<br>\n"
+"      <br>URL: %(url)s<br>Nom concession: %(dealership_name)s"
+
+#, python-format
+msgid ""
+"\n"
+"      Hi %(dealer_name)s,\n"
+"      <br/><br/>\n"
+"      %(customer_name)s has been assigned to you.\n"
+"      <br/><br/>\n"
+"      Please log into %(dealership_name)s on MotoCommerce to connect with this\n"
+"      customer and see the vehicles they are interested in.\n"
+"    "
+msgstr ""
+"\n"
+"      Bonjour %(dealer_name)s,<br/><br/>%(customer_name)s vous a été attribué.\n"
+"      <br/><br/>\n"
+"      Connectez-vous à %(dealership_name)s sur MotoCommerce pour consulter la fiche du client et voir les véhicules qui l’intéresse.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      Other %(customer_name)s information on file:\n"
+"      <br/>\n"
+"      Email address: %(email)s\n"
+"      <br/>\n"
+"    "
+msgstr ""
+"\n"
+"Autres renseignements sur la fiche de %(customer_name)s:<br/>Courriel: %(email)s       <br/>"
+
+#, python-format
+msgid ""
+"\n"
+"      Please log into %(dealership_name)s on MotoCommerce to connect with this\n"
+"      customer and guide them through the next steps.\n"
+"    "
+msgstr ""
+"\n"
+"      Veuillez vous connecter à %(dealership_name)s sur MotoCommerce pour joindre ce client et le guider dans les prochaines étapes.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      Please log into %(dealership_name)s on MotoCommerce to connect with this\n"
+"      customer and see the vehicles they are interested in.\n"
+"    "
+msgstr ""
+"\n"
+"      Connectez-vous à %(dealership_name)s sur MotoCommerce pour consulter la fiche du client et voir les véhicules qui l’intéresse.\n"
+"    "
+
+msgid ""
+"\n"
+"      Please log into MotoCommerce to confirm this appointment.\n"
+"      <br><br>\n"
+"      If you need to reschedule this appointment, please contact the customer to\n"
+"      arrange an alternate time and then log into MotoCommerce to update and\n"
+"      confirm the new time.\n"
+"    "
+msgstr ""
+"\n"
+"      Veuillez vous connecter à MotoCommerce pour confirmer ce rendez-vous.\n"
+"      <br><br>\n"
+"      Si vous devez reporter ce rendez-vous, veuillez communiquer avec le client pour confirmer une nouvelle heure puis connectez-vous à MotoCommerce pour mettre à jour ce rendez-vous.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      Thank you for booking your appointment with %(dealership_name)s for %(appointment_date)s at %(appointment_time)s.\n"
+"    "
+msgstr ""
+"\n"
+"      Merci d’avoir pris rendez-vous chez %(dealership_name)s le %(appointment_date)s à %(appointment_time)s.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      This email is to confirm that a refund has been issued by\n"
+"      %(dealership_name)s for your deposit. Please allow up to 10 business days\n"
+"      for the funds to appear on your credit card statement.\n"
+"      <br><br>\n"
+"      Your %(card_type)s ending in %(card_number)s has\n"
+"      been refunded with the details below:\n"
+"    "
+msgstr ""
+"\n"
+"      Ce courriel confirme que %(dealership_name)s vous a remis votre dépôt. Veuillez prévoir jusqu’à 10 jours ouvrables pour que ce montant soit crédité sur votre compte de carte de crédit.\n"
+"      <br><br>\n"
+"      Un remboursement a été effectué sur votre carte %(card_type)s se terminant par %(card_number)s, détails de la transaction:"
+
+#, python-format
+msgid ""
+"\n"
+"      You are receiving this email because you requested a password reset for an\n"
+"      account at %(dealership_name)s associated with this email address:\n"
+"      %(user_email)s.\n"
+"      <br><br>\n"
+"      If you do not wish to reset your password, you can ignore this email.\n"
+"    "
+msgstr ""
+"\n"
+"      Vous recevez ce courriel à la suite de votre demande de réinitialisation du mot de passe de votre compte chez %(dealership_name)s, avec l’adresse courriel suivante: %(user_email)s.\n"
+"      <br><br>\n"
+"      Si vous ne souhaitez pas réinitialiser votre mot de passe, vous pouvez ignorer ce courriel.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      You are receiving this email because you requested a password reset for the\n"
+"      %(dealership_name)s MotoCommerce account associated with this email\n"
+"      address: %(user_email)s.\n"
+"      <br/>\n"
+"      <br/>\n"
+"      If you do not wish to reset your password, you can ignore this email.\n"
+"    "
+msgstr ""
+"\n"
+"      Vous recevez ce courriel à la suite de votre demande de réinitialisation du mot de passe de votre compte MotoCommerce chez %(dealership_name)s, avec l’adresse courriel suivante: %(user_email)s.\n"
+"      <br/>\n"
+"      <br/>\n"
+"      Si vous ne souhaitez pas réinitialiser votre mot de passe, vous pouvez ignorer ce courriel.\n"
+"    "
+
+#, python-format
+msgid ""
+"\n"
+"      You are receiving this email because you requested access for an\n"
+"      account at %(dealership_name)s associated with this email address:\n"
+"      %(email)s.<br>\n"
+"      To proceed, please use the link below:\n"
+"    "
+msgstr ""
+"\n"
+"      Vous recevez ce courriel à la suite de votre demande d’ouverture de compte chez %(dealership_name)s, avec l’adresse courriel suivante: %(email)s.<br>\n"
+"      Pour procéder, veuillez cliquer sur le lien ci-dessous:"
+
+#, python-format
+msgid ""
+"\n"
+"    %(customer_name)s has requested an appointment at %(dealership_name)s.\n"
+"  "
+msgstr ""
+"\n"
+"    %(customer_name)s a demandé un rendez-vous chez %(dealership_name)s.\n"
+"  "
+
+#, python-format
+msgid ""
+"\n"
+"    Thank you for placing a deposit towards your %(vehicle_type)s at %(dealership_name)s – we hope you're as excited as we are!\n"
+"    <br>\n"
+"    Your %(credit_card_type)s ending in %(cc_num)s has been charged with the following payment:\n"
+"    "
+msgstr ""
+"\n"
+"    Merci d’avoir versé un dépôt pour votre %(vehicle_type)s chez %(dealership_name)s − nous souhaitons que vous partagiez notre enthousiasme!\n"
+"    <br>\n"
+"    Nous avons débité votre carte %(credit_card_type)s se terminant par %(cc_num)s du montant suivant:"
+
+#, python-format
+msgid "%(dealership)s make is not supported by %(make)s dealership"
+msgstr "Ce concessionnaire %(make)s n’offre pas la marque %(dealership)s"
+
+#, python-format
+msgid ""
+"%(frequency)s payment can not be disabled and set as default at the same "
+"time."
+msgstr ""
+"Le paiement %(frequency)s ne peut être désactivé et défini par défaut en "
+"même temps."
+
+#, python-format
+msgid "%(frequency)s payment is a current default and can not be disabled."
+msgstr ""
+"Le paiement %(frequency)s est la valeur par défaut et ne peut pas être "
+"désactivée."
+
+#, python-format
+msgid "%(frequency)s payment is not allowed."
+msgstr "Le paiement %(frequency)s n’est pas autorisé."
+
+#, python-format
+msgid ""
+"%(user_name)s, thank you for submitting your trade-in appraisal. We will "
+"review the details and get back to you with a conditional offer soon. <br> "
+"<br> You can review the details of your trade-in below:"
+msgstr ""
+"%(user_name)s, merci d’avoir soumis votre demande d’évaluation de véhicule "
+"d’échange. Nous l’examinerons et vous répondrons bientôt avec une offre "
+"conditionnelle. <br> <br> Vous pouvez passer en revue les détails de votre "
+"demande ci-dessous:"
+
+#, python-format
+msgid "%(user_name)s, we have a conditional offer for your trade-in"
+msgstr "%(user_name)s, nous avons une offre conditionnelle pour votre échange"
+
+msgid "(depending on rates)"
+msgstr "(en fonction des taux)"
+
+msgid "1 Week"
+msgstr "1 semaine"
+
+msgid "2 to 4 Weeks"
+msgstr "2 à 4 semaines"
+
+msgid "2+ Months (Factory Order)"
+msgstr "Plus de 2 mois (commande d’usine)"
+
+msgid ""
+"2. Add the following script tag inside the head tag of every page where the "
+"\"Build Your Deal\" widget will be used."
+msgstr ""
+"2. Ajoutez la balise de script suivante à l’intérieur de la balise <head> de"
+" chaque page où le widget « Construisez votre offre » est utilisé."
+
+msgid ""
+"<p>1. Add the following three attributes to a new element that is placed "
+"where you want the CTA to be displayed on the page:</p> <ul> "
+"<li>href=\"#\"</li> <li>class=\"motocommerce-vehicle-link\"</li> <li>data-"
+"stock-id=\"stock number or vin number from inventory feed goes here\"</li> "
+"</ul> <p class=\"note\"> Note: the \"data-stock-id\" attribute needs to be "
+"populated with the stock number or VIN number of the vehicle from inventory "
+"data source. </p>"
+msgstr ""
+"<p>1. Ajoutez les trois attributs suivants à un nouvel élément placé à "
+"l’endroit où vous souhaitez que l’appel à l’action (CTA) s’affiche sur la "
+"page:</p> <ul> <li>href=\"#\"</li> <li>class=\"motocommerce-vehicle-"
+"link\"</li> <li>data-stock-id=\"numéro de stock ou NIV du transfert "
+"d’inventaire va ici\"</li> </ul> <p class=\"note\"> Note: l’attribut \"data-"
+"stock-id\" doit correspondre le numéro de stock ou le NIV du véhicule dans "
+"la source de données d’inventaire. </p>"
+
+msgid "A New Customer Has Been Assigned to You"
+msgstr "Un nouveau client vous a été attribué"
+
+msgid "ADD OPTIONS"
+msgstr "AJOUTER DES OPTIONS"
+
+msgid "Abbey"
+msgstr "Abbey"
+
+msgid "Accepted"
+msgstr "Accepté"
+
+msgid "Accessories"
+msgstr "Accessoires"
+
+msgid "Accessory"
+msgstr "Accessoire"
+
+msgid "Account already disconnected."
+msgstr "Compte déjà déconnecté."
+
+msgid "Accutrade ICO"
+msgstr "OAC par Accutrade"
+
+msgid "Accutrade Instant Cash Offers"
+msgstr "Offre argent comptant d’Accutrade"
+
+msgid "Acquisition Fee"
+msgstr "Frais d’acquisition"
+
+msgid "Acres"
+msgstr "Acres"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Additional Info"
+msgstr "Renseignements additionnels"
+
+msgid "Additional Levies"
+msgstr "Prélèvements additionnels"
+
+msgid "Address Type"
+msgstr "Type d’adresse"
+
+msgid "Adjusted Total"
+msgstr "Total ajusté"
+
+msgid "Affects CAD/USD, km/mile, province/state usage"
+msgstr "Affecte devise CAD/USD, km/mille, province/état"
+
+msgid "Afternoon"
+msgstr "Après-midi"
+
+msgid "Air Conditioner Tax"
+msgstr "Taxe fédérale sur les climatiseurs"
+
+msgid "Air Conditioning Tax"
+msgstr "Taxe sur le climatiseur"
+
+msgid "Alberta"
+msgstr "Alberta"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "Allee"
+msgstr "Allée"
+
+msgid "Alley"
+msgstr "Alley"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Amount Financed"
+msgstr "Montant financé"
+
+msgid "Amount to be Leased"
+msgstr "Montant de location"
+
+msgid "Annual Percentage Rate"
+msgstr "Taux composé annuel"
+
+msgid "Annually"
+msgstr "Annuellement"
+
+msgid "Answer all questions before submit."
+msgstr "Veuillez répondre à toutes les questions avant de soumettre."
+
+msgid "Anytime"
+msgstr "En tout temps"
+
+msgid "Applicant must be at least 18 years old."
+msgstr "Le demandeur doit être âgé d’au moins 18 ans."
+
+msgid "Application already submitted."
+msgstr "Demande déjà soumise."
+
+msgid "Appointment information"
+msgstr "Informations de rendez-vous"
+
+msgid "At home"
+msgstr "À la maison"
+
+msgid "At least 1 digit"
+msgstr "Au moins 1 chiffre"
+
+msgid "At least 1 letter"
+msgstr "Au moins 1 lettre"
+
+msgid "At least 8 characters"
+msgstr "Au moins 8 caractères"
+
+msgid "Autoroute"
+msgstr "Autoroute"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Avenue"
+msgstr "Avenue"
+
+msgid "Awaiting Customer"
+msgstr "En attente du client"
+
+msgid "Awaiting Dealer"
+msgstr "En attente du concessionnaire"
+
+msgid "Awaiting Provider"
+msgstr "En attente du fournisseur"
+
+msgid "BROWSE OUR INVENTORY"
+msgstr "PARCOUREZ NOTRE INVENTAIRE"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Bay"
+msgstr "Baie"
+
+msgid "Beach"
+msgstr "Plage"
+
+msgid "Bend"
+msgstr "Bend"
+
+msgid "Best regards,"
+msgstr "Cordialement,"
+
+msgid "Biweekly"
+msgstr "aux 2 semaines"
+
+msgid "Blvd"
+msgstr "Blvd"
+
+msgid "Book an appointment"
+msgstr "Prendre rendez-vous"
+
+msgid "Book appointment"
+msgstr "Prendre rendez-vous"
+
+#, python-brace-format
+msgid ""
+"Both opening and closing times must be specified. Please check the hours for"
+" {day}."
+msgstr ""
+"Il faut indiquer les heures d’ouverture et de fermeture. Veuillez réviser "
+"les heures du {day}."
+
+msgid "Boul"
+msgstr "Boul."
+
+msgid "Bounce Recovery Feedback"
+msgstr "Bounce Recovery Feedback"
+
+msgid "British Columbia"
+msgstr "Colombie-Britannique"
+
+msgid "Brother"
+msgstr "Frère"
+
+msgid "Browse accessories and protection plans"
+msgstr "Parcourir les accessoires et les plans de protection"
+
+msgid "Browse our inventory while you wait for your valuation"
+msgstr "Consultez notre inventaire en attendant de recevoir votre évaluation"
+
+msgid "Build Your Deal"
+msgstr "Construisez votre offre"
+
+msgid "Build and Price"
+msgstr "Construire et obtenir prix"
+
+msgid "Business Manager"
+msgstr "Directeur commercial"
+
+msgid "Bypass"
+msgstr "Bypass"
+
+msgid "CBB vehicle"
+msgstr "Véhicule CBB"
+
+msgid "CBB vehicle mapping"
+msgstr "Cartographie de véhicule CBB"
+
+msgid "CBB vehicle mappings"
+msgstr "Cartographies de véhicules CBB"
+
+msgid "CBB vehicles"
+msgstr "Véhicules CBB"
+
+msgid "Campus"
+msgstr "Campus"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Cannot be empty."
+msgstr "Ce champ ne peut être vide."
+
+msgid "Cape"
+msgstr "Cap"
+
+msgid "Capitalized Cost Adjustment"
+msgstr "Ajustement du coût capitalisé"
+
+msgid "Car Allowance"
+msgstr "Allocation automobile mensuelle"
+
+msgid "Carre"
+msgstr "Carré"
+
+msgid "Cash"
+msgstr "Comptant"
+
+msgid "Cash Credit"
+msgstr "Crédit au comptant"
+
+msgid "Cash Down Payment"
+msgstr "Acompte"
+
+msgid "Cash Price"
+msgstr "Prix au comptant"
+
+msgid "Cash Rebate Note"
+msgstr "Note de remise au comptant"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Centre"
+msgstr "Centre"
+
+msgid "Cercle"
+msgstr "Cercle"
+
+msgid "Chase"
+msgstr "Chase"
+
+msgid "Chassis"
+msgstr "Châssis"
+
+msgid "Chemin"
+msgstr "Chemin"
+
+msgid "Child Support/Alimony"
+msgstr "Pensions alimentaires"
+
+msgid "Choose One"
+msgstr "Faire un choix"
+
+msgid "Circle"
+msgstr "Circle"
+
+msgid "Circuit"
+msgstr "Circuit"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Civic Address"
+msgstr "Adresse municipale"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "Colour"
+msgstr "Couleur"
+
+#, python-brace-format
+msgctxt "Fuel economy"
+msgid "Combined {value}{whitespace}{unit}"
+msgstr "Combiné {value}{whitespace}{unit}"
+
+msgid "Comments from your dealer:"
+msgstr "Commentaires de votre concessionnaire:"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Common Law"
+msgstr "Conjoint de fait"
+
+msgid "Complete"
+msgstr "Complété"
+
+msgid "Concession"
+msgstr "Concession"
+
+msgid "Conclude date"
+msgstr "Date de fin"
+
+msgid "Conditional upon inspection"
+msgstr "Conditionnel à l'inspection"
+
+msgid ""
+"Congratulations! Your credit application has been approved, and you're one "
+"step closer to your next ride!"
+msgstr ""
+"Félicitations! Votre demande de crédit a été approuvée, c’était l’étape "
+"cruciale pour vous procurer un nouveau véhicule!"
+
+msgid "Conquest"
+msgstr "Conquête"
+
+msgid "Contact Your Unhaggle Specialist"
+msgstr "Joignez votre spécialiste Unhaggle"
+
+msgid "Corners"
+msgstr "Corners"
+
+msgid "Cost of Borrowing"
+msgstr "Coût d’emprunt"
+
+msgid "Cote"
+msgstr "Côte"
+
+msgid ""
+"Could not send a SMS message. Please make sure phone number is valid and try"
+" again."
+msgstr ""
+"Échec d’envoi du message SMS. Veuillez vous assurer de la validité du numéro"
+" de téléphone et réessayer."
+
+msgid "Cour"
+msgstr "Cour"
+
+msgid "Cours"
+msgstr "Cours"
+
+msgid "Court"
+msgstr "Court"
+
+msgid "Cove"
+msgstr "Cove"
+
+msgid "Create Password"
+msgstr "Créer un mot de passe"
+
+msgid "Create password"
+msgstr "Créer un mot de passe"
+
+msgid "Credit check"
+msgstr "Vérification du crédit"
+
+msgid "Crescent"
+msgstr "Crescent"
+
+msgid "Croissant"
+msgstr "Croissant"
+
+msgid "Crossing"
+msgstr "Crossing"
+
+msgid "Cul-de-sac"
+msgstr "Cul-de-sac"
+
+msgid "DELETE OPTIONS"
+msgstr "SUPPRIMER DES OPTIONS"
+
+msgid "Dale"
+msgstr "Dale"
+
+msgid "Data release date"
+msgstr "Date de divulgation des données"
+
+msgid "Date of Birth (yyyy-mm-dd)"
+msgstr "Date de naissance (aaaa-mm-jj)"
+
+msgid "Dealer Admin"
+msgstr "Admin. du concessionnaire"
+
+msgid "Dealer Cost"
+msgstr "Coûts du concessionnaire"
+
+msgid "Dealer Cost Report"
+msgstr "Rapport du coût du concessionnaire"
+
+msgid "Dealer Discount"
+msgstr "Rabais du concessionnaire"
+
+msgid "Dealer Group Admin"
+msgstr "Admin. du groupe"
+
+msgid "Dealer Group Assistant"
+msgstr "Assistant du groupe"
+
+msgid "Dealer Page"
+msgstr "Page du concessionnaire"
+
+msgid "Dealer Sales Rep"
+msgstr "Rep. des ventes du concessionnaire"
+
+msgid "Dealers are not allowed to change their own role"
+msgstr "Un concessionnaire ne peut modifier son propre rôle"
+
+msgid "Dealership Group Name"
+msgstr "Nom du groupe de concessionnaires"
+
+msgid "Dealership Picture"
+msgstr "Image du concessionnaire"
+
+msgid "Dealership not found"
+msgstr "Concessionnaire introuvable"
+
+msgid "Dealership not found."
+msgstr "Concessionnaire introuvable."
+
+msgid "Dealership will receive leads from Canadian Black Book"
+msgstr "Concessionnaire recevra des prospects du Canadian Black Book"
+
+msgid ""
+"Dealership will receive leads from Car Buying Program (consumerreports.org)"
+msgstr ""
+"Concessionnaire recevra des prospects du Programme d'achat de voitures "
+"(consumerreports.org)"
+
+msgid "Dealership will receive leads from Kijiji site"
+msgstr "Concessionnaire recevra des prospect de kijiji"
+
+msgid "Dealership will receive leads from regular Unhaggle.com site"
+msgstr "Concessionnaire recevra des prospect de Unhaggle.com"
+
+msgid "Dealersocket API URL was not specified."
+msgstr "L’URL de l’API Dealersocket n’a pas été spécifiée."
+
+msgid "Dealersocket credentials are missing."
+msgstr "Les identifiants Dealersocket sont manquants."
+
+msgid "Dealersocket lead post request error: {}"
+msgstr "Dealersocket lead post request error: {}"
+
+msgid "Declined"
+msgstr "Refusé"
+
+msgid "Deductible"
+msgstr "Déductible"
+
+msgid "Dell"
+msgstr "Dell"
+
+msgid "Demo:"
+msgstr "Démo:"
+
+msgid "Deposit"
+msgstr "Dépôt"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Description English"
+msgstr "Description English"
+
+msgid "Description French"
+msgstr "Description Français"
+
+msgid "Desired value is {}, can not run payment calculations."
+msgstr ""
+"La valeur souhaitée est {}, le calcul au comptant ne peut être effectué."
+
+msgid "Disability Payments"
+msgstr "Prestations d’invalidité"
+
+msgid "Disappearing deductible"
+msgstr "Déductible en cas de disparition"
+
+msgid "Discarded"
+msgstr "Abandonné"
+
+msgid "Diversion"
+msgstr "Diversion"
+
+msgid "Divorced"
+msgstr "Divorcé(e)"
+
+msgid "Documentation Fees"
+msgstr "Frais de documentation"
+
+msgid "Down Payment"
+msgstr "Acompte"
+
+msgid "Downs"
+msgstr "Downs"
+
+msgid "Dr."
+msgstr "Dr."
+
+msgid "Draft"
+msgstr "Brouillon"
+
+msgid "Draft trade-in already exists for user."
+msgstr "Échange (reprise) existe déjà pour cet utilisateur."
+
+msgid "Drive"
+msgstr "Drive"
+
+msgid "Due On Delivery"
+msgstr "Dû à la livraison"
+
+msgid "Due on Delivery"
+msgstr "Dû à la livraison"
+
+msgid "Dynamic loading for widgets"
+msgstr "Chargement dynamique des widgets"
+
+msgid "EVOX Vehicle Factory Image Number"
+msgstr "Numéro d’image du constructeur EVOX"
+
+msgid "East"
+msgstr "Est"
+
+msgid "Email"
+msgstr "Courriel"
+
+msgid "Email Address"
+msgstr "Adresse courriel"
+
+msgid "Email is required."
+msgstr "Courriel est obligatoire."
+
+msgid "Email or password is incorrect"
+msgstr "Courriel ou mot de passe erroné"
+
+msgid "Emails for billing"
+msgstr "Courriels de facturation"
+
+msgid "Employer"
+msgstr "Employeur"
+
+msgid "Employment Status"
+msgstr "Statut d’emploi"
+
+msgid "Employment Type"
+msgstr "Type d’emploi"
+
+msgid "Enable \"Download Current Memos\" in Current Incentives page"
+msgstr ""
+"Activer \"Télécharger les mémos actuels\" dans la page des incitatifs "
+"courants"
+
+msgid "Enable \"Download Raw Data\" in Current Incentives page"
+msgstr ""
+"Activer \"Télécharger les données brutes\" dans la page des incitatifs "
+"courants"
+
+msgid "Enable \"Fleet\" link in Current Incentives page"
+msgstr "Activer le lien \"Flotte\" dans la page Incitatifs courants"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "End of Lease Amount"
+msgstr "Montant dû à la fin du bail"
+
+msgid "Engine cap. in litres"
+msgstr "Capacité du moteur en litres"
+
+msgid "English"
+msgstr "English"
+
+msgid "English (Canada)"
+msgstr "English (Canada)"
+
+msgid "English (US)"
+msgstr "English (US)"
+
+msgid "English Canada"
+msgstr "English Canada"
+
+msgid "English USA"
+msgstr "English USA"
+
+msgid "Equipment"
+msgstr "Équipement"
+
+msgid "Errors in retrieving payment data"
+msgstr "Erreurs de récupération des données de paiement"
+
+msgid "Esplanade"
+msgstr "Esplanade"
+
+msgid "Estates"
+msgstr "Estates"
+
+msgid "Evening"
+msgstr "Soirée"
+
+msgid "Evox image year"
+msgstr "Année image Evox"
+
+msgid "Example"
+msgstr "Exemple"
+
+msgid ""
+"Example: call “MOTOINSIGHT.updateView()” if you have an infinite loader on "
+"your page, or if you populate HTML element attributes using some JavaScript "
+"code."
+msgstr ""
+"Exemple: appelez \"MOTOINSIGHT.updateView()\" si vous obtenez un chargement "
+"infini sur votre page, ou si vous remplissez des attributs d’élément HTML en"
+" utilisant du code JavaScript."
+
+msgid "Excluded"
+msgstr "Exclus"
+
+msgid "Excluded Vehicles"
+msgstr "Véhicules exclus"
+
+msgid "Executive"
+msgstr "Exécutif"
+
+msgid "Expressway"
+msgstr "Expressway"
+
+msgid "Extension"
+msgstr "Extension"
+
+msgid "Exterior"
+msgstr "Extérieur"
+
+msgid "Female"
+msgstr "Féminin"
+
+msgid "Field"
+msgstr "Champ"
+
+msgid "Finance"
+msgstr "Financement"
+
+msgid "Finance Charge"
+msgstr "Frais de crédit"
+
+msgid "Finance Rebate Note"
+msgstr "Note de rabais de financement"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "First Payment"
+msgstr "Premier paiement"
+
+msgid "Follow the link below to review your deal:"
+msgstr "Cliquez sur le lien ci-dessous pour consulter votre nouvelle offre:"
+
+#, python-format
+msgid "For your %(tradein_vehicle)s"
+msgstr "pour votre %(tradein_vehicle)s"
+
+#, python-format
+msgid "For your&nbsp;%(vehicle_label)s"
+msgstr "Pour votre&nbsp;%(vehicle_label)s"
+
+msgid "Freeway"
+msgstr "Freeway"
+
+msgid "Freight & PDI"
+msgstr "Frais de transport et de préparation"
+
+msgid "Freight & PDI, Levies"
+msgstr "Transport, préparation et prélèvements"
+
+msgid "French"
+msgstr "Français"
+
+msgid "French (Canada)"
+msgstr "Français (Canada)"
+
+msgid "French Canada"
+msgstr "Français (Canada)"
+
+msgid "Frequency"
+msgstr "Fréquence"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Front"
+msgstr "Front"
+
+msgid "Fuel"
+msgstr "Carburant"
+
+msgid "Fuel Tax"
+msgstr "Taxe sur le carburant"
+
+msgid "Full Time"
+msgstr "Temps plein"
+
+msgid "Full Time (Probation)"
+msgstr "Temps plein (probation)"
+
+msgid "Further Verification Required"
+msgstr "Vérification supplémentaire requise"
+
+msgid "GST"
+msgstr "TPS"
+
+msgid "Gardens"
+msgstr "Gardens"
+
+msgid "Gate"
+msgstr "Gate"
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Get approved for credit"
+msgstr "Obtenez une approbation de crédit"
+
+msgid "Glade"
+msgstr "Glade"
+
+msgid "Glen"
+msgstr "Glen"
+
+msgid "Goal"
+msgstr "Objectif"
+
+msgid "Grandfather"
+msgstr "Grand-père"
+
+msgid "Grandmother"
+msgstr "Grand-mère"
+
+msgctxt "Street Type"
+msgid "Green"
+msgstr "Green"
+
+msgid "Gross Employment Income"
+msgstr "Revenus d’emploi bruts"
+
+msgid "Grounds"
+msgstr "Grounds"
+
+msgid "Grove"
+msgstr "Grove"
+
+msgid "HST"
+msgstr "TVH"
+
+msgid "Haggle Free"
+msgstr "Sans marchandage"
+
+msgid "Harbour"
+msgstr "Harbour"
+
+msgid "Heath"
+msgstr "Heath"
+
+msgid "Heights"
+msgstr "Heights"
+
+#, python-format
+msgid "Hi %(first_name)s,"
+msgstr "Bonjour %(first_name)s,"
+
+#, python-format
+msgid "Hi %(name)s,"
+msgstr "Bonjour %(name)s,"
+
+msgid "Highlands"
+msgstr "Highlands"
+
+msgid "Highway"
+msgstr "Highway"
+
+msgid "Hill"
+msgstr "Hill"
+
+msgid "Hollow"
+msgstr "Hollow"
+
+msgid "I acknowledge that the above information is complete and accurate"
+msgstr "Je confirme que les renseignements ci-dessus sont complets et exacts"
+
+msgid "I don’t want a quote"
+msgstr "Je ne veux pas de soumission"
+
+msgid "I'm just browsing"
+msgstr "J’évalue simplement les possibilités"
+
+msgid "I'm not ready to buy online"
+msgstr "Je ne suis pas prêt à acheter en ligne"
+
+msgid "ID for integrating Facebook Pixel"
+msgstr "ID pour l’intégration du Facebook Pixel"
+
+msgid ""
+"If the customer does not include the trade-in offer within allowed period, "
+"the offer will automatically expire and be removed from their purchase."
+msgstr ""
+"Si le client n’inclut pas l’offre pour son véhicule d’échange dans le délai "
+"imparti, l’offre expirera et sera retirée de son processus d’achat."
+
+msgid ""
+"If you have any questions, please feel free to reach out to us for "
+"assistance."
+msgstr "N’hésitez pas à nous joindre directement pour toute question."
+
+msgid ""
+"If your page is built to dynamically load the Build Your Deal button widget "
+"or Login widget, then we recommend to run the function "
+"“MOTOINSIGHT.updateView()” to have our script parse your content as it "
+"loads. This will ensure that the proper MotoCommerce hyperlinks always gets "
+"generated and associated with the widgets as your page updates."
+msgstr ""
+"Si votre page charge dynamiquement le widget Construisez votre offre ou le "
+"widget Login, alors nous vous recommandons d’exécuter la fonction "
+"“MOTOINSIGHT.updateView()” pour que notre script analyse votre contenu au "
+"fur et à mesure de son chargement. Cela garantira que les liens MotoCommerce"
+" appropriés sont toujours générés et associés aux widgets lors des mises à "
+"jour de votre page."
+
+msgid "Ile"
+msgstr "Île"
+
+msgid "Impasse"
+msgstr "Impasse"
+
+msgid "In-Law"
+msgstr "Beaux-parents"
+
+msgid "Included"
+msgstr "Inclus"
+
+#, python-brace-format
+msgid ""
+"Includes up to {before_tax_high} dealer contribution applied before tax and "
+"{post_tax_low} - {post_tax_high} dealer contribution applied after tax "
+"(depending on rates)."
+msgstr ""
+"Inclut une contribution du concessionnaire atteignant {before_tax_high} "
+"appliquée avant taxes et de {post_tax_low} - {post_tax_high} appliquée après"
+" taxes (en fonction du taux)."
+
+#, python-brace-format
+msgid ""
+"Includes {any_low} - {any_high} dealer contribution (depending on rates)."
+msgstr ""
+"Inclut une contribution du concessionnaire de {any_low} - {any_high} (en "
+"fonction du taux)."
+
+#, python-brace-format
+msgid ""
+"Includes {before_tax_high} dealer contribution applied before tax and a "
+"{post_tax_high} dealer contribution applied after tax."
+msgstr ""
+"Inclut une contribution du concessionnaire de {before_tax_high} appliquée "
+"avant taxes et une contribution de {post_tax_high} appliquée après taxes."
+
+#, python-brace-format
+msgid "Includes {before_tax_high} dealer contribution."
+msgstr "Inclut une contribution du concessionnaire de {before_tax_high}."
+
+#, python-brace-format
+msgid ""
+"Includes {before_tax_low} - {before_tax_high} dealer contribution (depending"
+" on rates)."
+msgstr ""
+"Inclut une contribution du concessionnaire de {before_tax_low} - "
+"{before_tax_high} (en fonction du taux)."
+
+#, python-brace-format
+msgid ""
+"Includes {before_tax_low} - {before_tax_high} dealer contribution applied "
+"before tax and up to {post_tax_high} dealer contribution applied after tax "
+"(depending on rates)."
+msgstr ""
+"Inclut une contribution du concessionnaire de {before_tax_low} - "
+"{before_tax_high} appliquée avant taxes et de jusqu’à {post_tax_high} "
+"appliquée après taxes (en fonction du taux)."
+
+#, python-brace-format
+msgid ""
+"Includes {before_tax_low} - {before_tax_high} dealer contribution applied "
+"before tax and {post_tax_low} - {post_tax_high} dealer contribution applied "
+"after tax (depending on rates)."
+msgstr ""
+"Inclut une contribution du concessionnaire de {before_tax_low} - "
+"{before_tax_high} appliquée avant taxes et de {post_tax_low} - "
+"{post_tax_high} appliquée après taxes (en fonction du taux)."
+
+#, python-brace-format
+msgid "Includes {category} {trim} features"
+msgstr "Inclut les caractéristiques {category} {trim}"
+
+#, python-brace-format
+msgid "Includes {post_tax_high} dealer contribution after tax."
+msgstr ""
+"Inclut une contribution du concessionnaire de {post_tax_high} après taxes."
+
+#, python-brace-format
+msgid ""
+"Includes {post_tax_low} - {post_tax_high} dealer contribution (depending on "
+"rates) applied after tax."
+msgstr ""
+"Inclut une contribution du concessionnaire de {post_tax_low} - "
+"{post_tax_high} (en fonction du taux) appliquée après taxes."
+
+msgid "Indicator if this vehicle is a special edition"
+msgstr "Indicateur d’une édition spéciale pour un véhicule"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Inlet"
+msgstr "Inlet"
+
+#, python-format
+msgid "Instant Cash Offer: %(offer_value)s"
+msgstr "Offre argent comptant: %(offer_value)s"
+
+msgid "Interest Rate"
+msgstr "Taux d’intérêt"
+
+msgid "Interior"
+msgstr "Intérieur"
+
+msgid "Invalid Postal Code"
+msgstr "Code postal non valide"
+
+msgid "Invalid Vehicle ID."
+msgstr "ID de véhicule invalide."
+
+msgid "Invalid ZIP Code"
+msgstr "Code postal invalide"
+
+msgid "Invalid customer id."
+msgstr "ID client invalide."
+
+msgid "Invalid dealer."
+msgstr "Concessionnaire invalide."
+
+msgid "Invalid email address: {}"
+msgstr "Adresse courriel invalide: {}"
+
+msgid "Invalid link"
+msgstr "Lien invalide"
+
+msgid "Invalid order id."
+msgstr "ID commande invalide"
+
+msgid "Invalid payload."
+msgstr "Chargement invalide"
+
+#, python-format
+msgid "Invalid province %s"
+msgstr "Province invalide %s"
+
+msgid "Invalid trade-in state"
+msgstr "État d’échange invalide"
+
+msgid "Invalid user id."
+msgstr "ID utilisateur invalide"
+
+msgid "Inventory"
+msgstr "Inventaire"
+
+msgid "Investment Income"
+msgstr "Revenu d’investissements"
+
+#, python-format
+msgid "Invoice Price Report with incomplete data for Search %s"
+msgstr ""
+"Rapport de prix de la facture inclut des données incomplètes pour la "
+"recherche %s"
+
+#, python-format
+msgid "Invoice Price Report with incomplete data for User Offer %s"
+msgstr ""
+"Rapport de prix de la facture inclut des données incomplètes pour l’offre de"
+" l’utilisateur %s"
+
+#, python-format
+msgid "Invoice: %(order_id)s"
+msgstr "Facture: %(order_id)s"
+
+msgid "Is Active"
+msgstr "Est actif"
+
+msgid "Island"
+msgstr "Island"
+
+msgid "Item image"
+msgstr "Image de l’article"
+
+msgid "Jato vehicle UID"
+msgstr "UID véhicule Jato"
+
+msgid "Jato vehicle UID (string version of vehicle_style_id)"
+msgstr "UID véhicule Jato (version chaîne de vehicle_style_id)"
+
+msgid "Jato vehicle id"
+msgstr "ID véhicule Jato"
+
+msgid "KM Allowance:"
+msgstr "km alloués:"
+
+msgid "KM band the protection plan allows for"
+msgstr "Kilométrage admissible du plan de protection"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Knoll"
+msgstr "Knoll"
+
+msgid "Labourer"
+msgstr "Employé"
+
+msgid "Landlord"
+msgstr "Propriétaire"
+
+msgid "Landng"
+msgstr "Landing"
+
+msgid "Lane"
+msgstr "Lane"
+
+msgid "Language is required."
+msgstr "La langue est requise."
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Last date when it was imported from Jato files."
+msgstr "Date de la dernière importation depuis les fichiers Jato."
+
+msgid "Lease"
+msgstr "Location"
+
+msgid "Lease Rebate Note"
+msgstr "Note de rabais de location"
+
+msgid "Less: Trade-in Owing"
+msgstr "Moins: dû sur véhicule d’échange"
+
+msgid "Limits"
+msgstr "Limits"
+
+msgid "Line"
+msgstr "Line"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Link to for new cars button on my cars page"
+msgstr "Lien du bouton Véhicules neufs sur la page Mes Autos"
+
+msgid "Link to for used cars button on my cars page"
+msgstr "Lien du bouton Véhicules d’occasion sur la page Mes Autos"
+
+msgid "Link to privacy page"
+msgstr "Lien vers la page de confidentialité"
+
+msgid "Link to terms and conditions page"
+msgstr "Lien vers la page des modalités et conditions"
+
+msgid "List of values"
+msgstr "Liste de valeurs"
+
+msgid "Listing Price"
+msgstr "Prix demandé"
+
+msgid "Loading..."
+msgstr "Chargement...."
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Lookout"
+msgstr "Lookout"
+
+msgid "Looks like this link is expired."
+msgstr "Ce lien semble expiré."
+
+msgid "Loop"
+msgstr "Loop"
+
+msgid "Lost"
+msgstr "Perdu"
+
+msgid "Lot Number"
+msgstr "N° de lot"
+
+msgid "Loyalty"
+msgstr "Fidélité"
+
+msgid "MSRP"
+msgstr "PDSF"
+
+msgid "Make:"
+msgstr "Marque:"
+
+msgid "Male"
+msgstr "Masculin"
+
+msgid "Mall"
+msgstr "Mall"
+
+msgid "Management"
+msgstr "Direction"
+
+msgid "Manitoba"
+msgstr "Manitoba"
+
+msgid "Manor"
+msgstr "Manor"
+
+msgid "Manufacturer code"
+msgstr "Code du fabricant"
+
+msgid "Manufacturer's Rebate"
+msgstr "Rabais du constructeur"
+
+msgid "Marital Status"
+msgstr "Statut matrimonial"
+
+msgid "Market Value"
+msgstr "Valeur au marché"
+
+#, python-format
+msgid "Markup price by %% if user hits gallery landing page"
+msgstr ""
+"Augmenter le prix de %% si l’utilisateur atteint la galerie de la page de "
+"destination."
+
+msgid "Married"
+msgstr "Marié(e)"
+
+msgid "Maximum engine power in HP"
+msgstr "Puissance max. du moteur en HP"
+
+msgid "Maximum engine power in kW"
+msgstr "Puissance max. du moteur en kW"
+
+msgid "Maze"
+msgstr "Maze"
+
+msgid "Meadow"
+msgstr "Meadow"
+
+msgid "Mews"
+msgstr "Mews"
+
+msgid "Middle Initial"
+msgstr "Initiale"
+
+msgid "Military"
+msgstr "Militaire"
+
+msgid "Miss"
+msgstr "Mlle"
+
+msgid "Missing API URL."
+msgstr "URL d’API manquante."
+
+msgid "Missing Client ID 2."
+msgstr "ID 2 client manquant."
+
+msgid "Missing Client ID."
+msgstr "ID client manquant."
+
+msgid "Missing Source ID."
+msgstr "ID source manquant."
+
+msgid "Missing order id"
+msgstr "ID commande manquant."
+
+msgid "Mobility"
+msgstr "Mobilité"
+
+msgid "Model:"
+msgstr "Modèle:"
+
+msgid "Models differentiator"
+msgstr "Comparateur de modèles"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Montee"
+msgstr "Montée"
+
+msgid "Month"
+msgstr "mois"
+
+msgid "Monthly"
+msgstr "/mois"
+
+msgid "Monthly Residential Payment"
+msgstr "Loyer mensuel"
+
+msgid "Months as Retired"
+msgstr "Nb. de mois à la retraite"
+
+msgid "Months at Address"
+msgstr "Nb. de mois à cette adresse"
+
+msgid "Months at Employer"
+msgstr "Nb. de mois à cet emploi"
+
+msgid "Morning"
+msgstr "Matin"
+
+msgid "Mortgage Amount"
+msgstr "Montant d’hypothèque"
+
+msgid "Mortgage Holder"
+msgstr "Créancier hypothécaire"
+
+msgid "Moto Dealer"
+msgstr "Moto Dealer"
+
+msgid "Moto Dealer Deposit"
+msgstr "Dépôt Moto Dealer"
+
+msgid "MotoCommerce"
+msgstr "MotoCommerce"
+
+msgid "MotoCommerce - A New Customer Awaits You"
+msgstr "MotoCommerce - Vous avez un nouveau client"
+
+msgid "MotoCommerce - A New Customer Has Been Assigned to You"
+msgstr "MotoCommerce - Un nouveau client vous a été attribué"
+
+msgid "MotoCommerce - Appointment Request"
+msgstr "MotoCommerce - Demande de rendez-vous"
+
+msgid "MotoCommerce - Customer Activity Alert"
+msgstr "MotoCommerce - Alerte d’activité de client"
+
+msgid "MotoCommerce - Deposit Paid"
+msgstr "MotoCommerce - Dépôt versé"
+
+msgid "MotoCommerce - Invitation to {}"
+msgstr "MotoCommerce - Invitation à {}"
+
+msgid "MotoCommerce - New Credit Application"
+msgstr "MotoCommerce - Nouvelle demande de crédit"
+
+msgid "MotoCommerce - Request for Trade-in Appraisal"
+msgstr "MotoCommerce - Demande d’évaluation d’échange"
+
+msgid "MotoCommerce - Reset Your Password"
+msgstr "MotoCommerce - Réinitialiser votre mot de passe"
+
+msgid "Mount"
+msgstr "Mount"
+
+msgid "Mountain"
+msgstr "Mountain"
+
+msgid "Mr."
+msgstr "M."
+
+msgid "Mrs."
+msgstr "Mme"
+
+msgid "Ms."
+msgstr "Mme"
+
+msgid "Must be exactly nine digits."
+msgstr "Doit comporter exactement neuf chiffres."
+
+msgid "Must be less than applicant's age"
+msgstr "La valeur doit être inferieure à l’âge du demandeur"
+
+msgid "Must be minimum 18 years of age."
+msgstr "Doit être âgé d’au moins 18 ans."
+
+msgid "N/A"
+msgstr "S/O"
+
+msgid "Navigation system"
+msgstr "Système de navigation"
+
+msgid "Net Trade-In Value"
+msgstr "Valeur nette d’échange"
+
+msgid "Net Trade-in Value"
+msgstr "Valeur nette de l’échange"
+
+msgid "New"
+msgstr "Neuf"
+
+msgid "New Brunswick"
+msgstr "Nouveau-Brunswick"
+
+msgid "New Grad"
+msgstr "Nouveau diplômé"
+
+msgid "New question was asked on {} MotoCommerce"
+msgstr "Nouvelle question {} sur MotoCommerce"
+
+msgid "Newfoundland"
+msgstr "Terre-Neuve"
+
+msgid "Newfoundland and Labrador"
+msgstr "Terre-Neuve-et-Labrador"
+
+msgid "No"
+msgstr "Non"
+
+msgid "No - I own it"
+msgstr "Non - Le véhicule m’appartient"
+
+msgid "No Dealer ID specified."
+msgstr "Aucun ID de concessionnaire indiqué."
+
+msgid "No Dealersocket ID specified."
+msgstr "Aucun ID de Dealersocket indiqué."
+
+msgid "No change"
+msgstr "Aucun changement"
+
+msgid "No lease data are available for used vehicles."
+msgstr ""
+"Aucune donnée de location n’est disponible pour les véhicules d’occasion."
+
+msgid "No options available yet for this vehicle. Please check back later."
+msgstr ""
+"Aucune option n’est disponible pour ce véhicule pour le moment. Merci de re-"
+"vérifier ultérieurement."
+
+msgid "No payment type selected"
+msgstr "Aucun type de paiement sélectionné"
+
+msgid "No programs available"
+msgstr "Aucun programme offert"
+
+msgid "No rate available."
+msgstr "Aucun taux offert."
+
+msgid "No vehicle with this style id"
+msgstr "Aucun véhicule avec cet ID de style"
+
+#, python-brace-format
+msgid "No {method} data available."
+msgstr "Aucune donnée {method} disponible"
+
+msgid "Non-Admins are not allowed to self-assign customers"
+msgstr "Un non-administrateur ne peut automatiquement attribuer des clients"
+
+msgid "Non-Admins can only self-assign previously unassigned customers"
+msgstr ""
+"Un non-administrateur peut uniquement s’attribuer des clients non attribués"
+
+#, python-format
+msgid "Non-price rule with empty option_rule: %s"
+msgstr "Règle du non-prix lorsque option_rule: %s est vide."
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "North East"
+msgstr "Nord-est"
+
+msgid "North West"
+msgstr "Nord-ouest"
+
+msgid "Northwest Territories"
+msgstr "Territoires du Nord-Ouest"
+
+msgid "Not found"
+msgstr "Non trouvé"
+
+msgid "Note: Hardcoded href, other than \"#\""
+msgstr "Note: Href codé en dur, autre que \"#\""
+
+msgid "Note: Missing \"motocommerce-vehicle-link\" class"
+msgstr "Note: classe \"motocommerce-vehicle-link\" manquante"
+
+msgid "Note: Missing data-stock-id"
+msgstr "Note: data-stock-id manquante"
+
+msgid "Note: Missing href"
+msgstr "Note: Href manquant"
+
+msgid "Note: No text"
+msgstr "Note: aucun texte"
+
+msgid ""
+"Note: element styling shown here is for examplification purposes only and is"
+" not included. Styling should be handled by the source code where the widget"
+" will be placed."
+msgstr ""
+"Note: le style d’élément présenté ici est uniquement à titre d’exemple et "
+"n’est pas inclus. Le style doit être géré par le code source où le widget "
+"sera placé."
+
+msgid "Nova Scotia"
+msgstr "Nouvelle-Écosse"
+
+msgid "Nunavut"
+msgstr "Nunavut"
+
+msgid "OKR Consumer - Percentage of Users Creating accounts"
+msgstr "Client OKR - Pourcentage d’utilisateurs créant des comptes"
+
+msgid "OKR Dealer - Median Dealer Created Accounts"
+msgstr ""
+"Concessionnaire OKR - Nb. médian de comptes créés par un concessionnaire"
+
+msgid "OKR Pricing Accuracy - Percentage of scenarios handled correctly"
+msgstr "Précision des prix OKR - Pourcentage de scénarios gérés correctement"
+
+msgid "OKR USA - Number of Live Dealers"
+msgstr "OKR USA - Nb. de concessionnaires activés"
+
+msgid "OMVIC/AMVIC Transaction"
+msgstr "Transaction OMVIC/AMVIC"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Occupation"
+msgstr "Occupation"
+
+msgid "Odometer"
+msgstr "Odomètre"
+
+msgid "Office Staff"
+msgstr "Employé administratif"
+
+msgid "Only FQDN, no protocol (http, https) or ports allowed."
+msgstr ""
+"Seul le nom de domaine complet, aucun protocole (http, https) ou ports "
+"autorisés."
+
+msgid "Ontario"
+msgstr "Ontario"
+
+msgid "Order already exists."
+msgstr "La commande existe déjà."
+
+msgid "Organization Name"
+msgstr "Nom organisation"
+
+msgid "Other"
+msgstr "Autres"
+
+msgid "Other Income"
+msgstr "Autres revenus"
+
+msgid "Other Income Description"
+msgstr "Description des autres revenus"
+
+msgid "Other Income Frequency"
+msgstr "Fréquence des autres revenus"
+
+msgid "Other Income Type"
+msgstr "Autres types de revenus"
+
+msgid "Own Free & Clear"
+msgstr "Propriété claire / sans liens"
+
+msgid "Own Mobile Home"
+msgstr "Propriétaire d’une maison mobile"
+
+msgid "Own with Mortgage"
+msgstr "Propriétaire avec hypothèque"
+
+msgid "PEN Protection Plan"
+msgstr "Plan de protection PEN"
+
+msgid "PST"
+msgstr "TVP"
+
+msgid "Parade"
+msgstr "Parade"
+
+msgid "Parc"
+msgstr "Parc"
+
+msgid "Parental"
+msgstr "Parental"
+
+msgid "Park"
+msgstr "Park"
+
+msgid "Parkway"
+msgstr "Parkway"
+
+msgid "Part Time (Casual)"
+msgstr "Temps partiel occasionnel"
+
+msgid "Part Time (Regular)"
+msgstr "Temps partiel (régulier)"
+
+msgid "Passage"
+msgstr "Passage"
+
+msgid "Password is not valid."
+msgstr "Mot de passe invalide."
+
+msgid "Password reset complete"
+msgstr "Réinitialisation de mot de passe effectuée"
+
+msgid "Password reset done"
+msgstr "Réinitialisation de mot de passe effectuée"
+
+msgid "Path"
+msgstr "Path"
+
+msgid "Pathway"
+msgstr "Pathway"
+
+msgid "Payment"
+msgstr "Paiement"
+
+msgid "Payment Frequency"
+msgstr "Fréquence de paiement"
+
+msgid "Payment not available"
+msgstr "Paiement non disponible"
+
+msgid "Pending offer already exist for the trade-in."
+msgstr "Il existe déjà une offre pour ce véhicule d’échange."
+
+msgid "Pensions"
+msgstr "Rentes"
+
+msgid "Percentage Discount"
+msgstr "Rabais en pourcentage"
+
+msgid "Percentage Discount off MSRP"
+msgstr "Pourcentage de rabais sur le PDSF"
+
+msgid "Phone"
+msgstr "N° téléphone"
+
+msgid "Photos Uploaded"
+msgstr "Photos téléchargées"
+
+msgid "Place"
+msgstr "Place"
+
+msgid "Place a deposit"
+msgstr "Verser un dépôt"
+
+msgid "Plateau"
+msgstr "Plateau"
+
+msgid "Plaza"
+msgstr "Plaza"
+
+msgid "Please accept the acknowledgement."
+msgstr "Veuillez accepter les conditions."
+
+msgid "Please choose at least one option"
+msgstr "Veuillez choisir au moins une option"
+
+msgid "Please create an account password in order to login."
+msgstr "Veuillez créer un mot de passe pour vous connecter."
+
+msgid "Please enter a unique SKU."
+msgstr "Veuillez entrer un SKU unique."
+
+msgid "Please enter a valid email address"
+msgstr "Veuillez entrer une adresse courriel valide"
+
+msgid "Please enter a valid number."
+msgstr "Veuillez entrer un numéro valide."
+
+msgid ""
+"Please log into MotoCommerce for details and to manage the status of this "
+"application."
+msgstr ""
+"Pour voir les détails et gérer le statut de cette demande de crédit, "
+"veuillez vous connecter au portail MotoCommerce."
+
+msgid "Please log into MotoCommerce for more details regarding this customer."
+msgstr ""
+"Veuillez vous connecter à MotoCommerce pour obtenir plus de détails "
+"concernant ce client."
+
+msgid "Please select a future date."
+msgstr "Veuillez sélectionner une date dans l’avenir."
+
+msgid "Please select a valid accessory"
+msgstr "Veuillez sélectionner un accessoire valide"
+
+msgid "Please select a valid colour code"
+msgstr "Veuillez sélectionner un code de couleur valide"
+
+msgid "Please select a valid protection plan"
+msgstr "Veuillez sélectionner un plan de protection valide"
+
+msgid "Point"
+msgstr "Point"
+
+msgid "Pointe"
+msgstr "Pointe"
+
+msgid "Post-Tax Dealership Charges"
+msgstr "Frais de concessionnaire après taxes"
+
+msgid "Post-Tax Dealership Discounts"
+msgstr "Rabais du concessionnaire après taxes"
+
+msgid "Post-Tax Discounts"
+msgstr "Rabais après taxes"
+
+msgid "Post-Tax Fees"
+msgstr "Frais après taxes"
+
+msgid "Post-tax Dealership Discounts"
+msgstr "Rabais du concessionnaire après taxes"
+
+msgid "Post-tax Dealership Fee"
+msgstr "Frais du concessionnaire après taxes"
+
+msgid "Post-tax Incentives"
+msgstr "Incitatifs après taxes"
+
+msgid "Postal Box"
+msgstr "Boîte postale"
+
+msgid "Postal Box Number"
+msgstr "N° boîte postale"
+
+msgid "Postal Code"
+msgstr "Code postal"
+
+msgid "Postal code does not match the province."
+msgstr "Le code postal ne correspond pas à la province."
+
+msgid "Power Sunroof"
+msgstr "Toit ouvrant assisté"
+
+msgid "Powertrain"
+msgstr "Groupe motopropulseur"
+
+msgid "Pre-Tax Dealership Charges"
+msgstr "Frais de concessionnaire avant taxes"
+
+msgid "Pre-Tax Dealership Discounts"
+msgstr "Rabais du concessionnaire avant taxes"
+
+msgid "Pre-Tax Discounts"
+msgstr "Rabais avant taxes"
+
+msgid "Pre-Tax Fees"
+msgstr "Frais avant taxes"
+
+msgid "Pre-tax Dealership Discounts"
+msgstr "Rabais du concessionnaire avant taxes"
+
+msgid "Pre-tax Dealership Fee"
+msgstr "Frais du concessionnaire avant taxes"
+
+msgid "Price for a lead for this dealership in $"
+msgstr "Prix d’un prospect pour ce concessionnaire en $"
+
+msgid "Pricing Worksheet"
+msgstr "Tableau des prix"
+
+msgid "Prince Edward Island"
+msgstr "Île-du-Prince-Édouard"
+
+msgid "Principal"
+msgstr "Directeur"
+
+msgid "Private"
+msgstr "Private"
+
+msgid "Production"
+msgstr "Production"
+
+msgid "Professional"
+msgstr "Professionnel"
+
+msgid "Promenade"
+msgstr "Promenade"
+
+msgid "Protection Plan"
+msgstr "Plan de protection"
+
+msgid "Protection Plan Price"
+msgstr "Prix du plan de protection"
+
+msgid "Protection Plans"
+msgstr "Plans de protection"
+
+msgid "Province"
+msgstr "Province"
+
+msgid "Province Fees"
+msgstr "Frais provinciaux"
+
+msgid "Province/State"
+msgstr "Province"
+
+msgid "Provincial Taxes"
+msgstr "Taxes provinciales"
+
+msgid "Pull Inventory From"
+msgstr "Extraire inventaire de"
+
+msgid "Purchase Price"
+msgstr "Prix d’achat"
+
+msgid "QST"
+msgstr "TVQ"
+
+msgid "QST Protection"
+msgstr "Protection QST"
+
+msgid "Quai"
+msgstr "Quai"
+
+msgid "Quay"
+msgstr "Quay"
+
+msgid "Quebec"
+msgstr "Québec"
+
+msgid "Ramp"
+msgstr "Ramp"
+
+msgid "Rang"
+msgstr "Rang"
+
+msgid "Range"
+msgstr "Range"
+
+msgid "Rate Reduction"
+msgstr "Réduction du taux"
+
+msgid "Rebate"
+msgstr "Rabais"
+
+msgid "Reducing deductible"
+msgstr "Franchise décroissante"
+
+msgid "Refresh has expired."
+msgstr "L’actualisation a expiré."
+
+msgid "Refunded Total"
+msgstr "Total remboursé"
+
+msgid "Regards,"
+msgstr "Cordialement,"
+
+msgid "Registration Fee"
+msgstr "Frais d’immatriculation"
+
+msgid "Regulatory Fee"
+msgstr "Frais réglementaires"
+
+msgid "Regulatory Fees"
+msgstr "Frais réglementaires"
+
+msgid "Relation to Primary"
+msgstr "Lien avec le demandeur principal"
+
+msgid "Rent"
+msgstr "Loyer"
+
+msgid "Rental Income"
+msgstr "Revenus de location"
+
+msgid "Request a trade-in appraisal"
+msgstr "Demandez une évaluation de véhicule d’échange"
+
+msgid "Required Changes"
+msgstr "Changements requis"
+
+msgid "Reserve Housing"
+msgstr "Logement sur une réserve"
+
+msgid "Reset Password"
+msgstr "Réinitialiser mot de passe"
+
+msgid "Reset password"
+msgstr "Réinitialiser mot de passe"
+
+msgid "Reset your password"
+msgstr "Réinitialisez votre mot de passe"
+
+msgid "Residential Status"
+msgstr "Statut de résidence"
+
+msgid "Residual Value"
+msgstr "Valeur résiduelle"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "Result:"
+msgstr "Résultat:"
+
+msgid "Retail Administration Fee"
+msgstr "Frais d’administration au détail"
+
+msgid "Retired"
+msgstr "Retraité"
+
+msgid "Ridge"
+msgstr "Ridge"
+
+msgid "Rise"
+msgstr "Rise"
+
+msgid "Road"
+msgstr "Road"
+
+msgid "Route"
+msgstr "Route"
+
+msgid "Route Customer To"
+msgstr "Envoyer client à"
+
+msgid "Row"
+msgstr "Row"
+
+msgid "Rue"
+msgstr "Rue"
+
+msgid "Ruelle"
+msgstr "Ruelle"
+
+msgid "Run"
+msgstr "Run"
+
+msgid "Rural Route"
+msgstr "Route rurale"
+
+msgid "Rural Route Number"
+msgstr "N° de route rurale"
+
+msgid "SIN"
+msgstr "NAS"
+
+msgid "Safety"
+msgstr "Sécurité"
+
+msgid "Salary"
+msgstr "Salaire"
+
+msgid "Sales"
+msgstr "Ventes"
+
+msgid "Sales Manager"
+msgstr "Directeur des ventes"
+
+msgid "Sales Person"
+msgstr "Représentant des ventes"
+
+msgid "Sales Tax"
+msgstr "Taxes de vente"
+
+msgid "Sales Tax - Due On Delivery"
+msgstr "Taxes de vente - Dû à la livraison"
+
+msgid "Saskatchewan"
+msgstr "Saskatchewan"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Script:"
+msgstr "Script:"
+
+msgid "Seasonal Summer"
+msgstr "Saisonnier (été)"
+
+msgid "Seasonal Winter"
+msgstr "Saisonnier (hiver)"
+
+msgid "Security Deposit"
+msgstr "Dépôt de sécurité"
+
+msgid "See attached Accessories page"
+msgstr "Voir la page des accessoires ci-jointe"
+
+msgid "See dealer for more details"
+msgstr "Veuillez consulter le concessionnaire pour plus de détails."
+
+msgid "See how your trade-in affects prices on your next vehicle purchase."
+msgstr ""
+"Voyez comment votre valeur d’échange modifie le coût total de votre prochain"
+" achat."
+
+msgid "Selected language is not supported for this dealership."
+msgstr "Sélection de langue non prise en charge pour ce concessionnaire."
+
+msgid "Selection"
+msgstr "Sélection"
+
+msgid "Self Employed"
+msgstr "Travailleur autonome"
+
+msgid "Self-Employed"
+msgstr "Travailleur autonome"
+
+msgid "Sentier"
+msgstr "Sentier"
+
+msgid "Separated"
+msgstr "Séparé(e)"
+
+msgid "Service"
+msgstr "Services"
+
+msgid "Shift lead post request error: {}"
+msgstr "Erreur de requête de publication de prospect Shift: {}"
+
+msgid "Should this dealer be billed?"
+msgstr "Ce concessionnaire doit-il être facturé?"
+
+msgid "Show Unhaggle logo in insights"
+msgstr "Afficher le logo Unhaggle dans les analyses"
+
+msgid "Single"
+msgstr "Célibataire"
+
+msgid "Sister"
+msgstr "Soeur"
+
+msgid "Site does not exist"
+msgstr "Le site n’existe pas"
+
+msgid "Smart Purchase"
+msgstr "Achat intelligent"
+
+msgid "Sold"
+msgstr "Vendu"
+
+msgid "Sorry, this is not a valid appointment time."
+msgstr "Désolé, ce n’est pas une heure de rendez-vous valide."
+
+msgid "Sorry, you cannot change a confirmed appointment."
+msgstr "Désolé, il n’est pas possible de modifier un rendez-vous confirmé."
+
+msgid "Source"
+msgstr "Source"
+
+msgid "South"
+msgstr "Sud"
+
+msgid "South East"
+msgstr "Sud-est"
+
+msgid "South West"
+msgstr "Sud-ouest"
+
+msgid "Spouse"
+msgstr "Époux"
+
+msgid "Square"
+msgstr "Square"
+
+msgid "Stock #:"
+msgstr "N° stock:"
+
+msgid "Street"
+msgstr "Rue"
+
+msgid "Street Direction"
+msgstr "Direction de la rue"
+
+msgid "Street Name"
+msgstr "Nom de rue"
+
+msgid "Street Number"
+msgstr "Numéro de rue"
+
+msgid "Street Type"
+msgstr "Type de rue"
+
+msgid "Stripe responded with an unexpected error. Please try again later."
+msgstr ""
+"Stripe a répondu avec une erreur inattendue. Veuillez réessayer plus tard."
+
+msgid "Student"
+msgstr "Étudiant(e)"
+
+msgid "Style ID is required"
+msgstr "ID de style obligatoire"
+
+msgid "Sub Total"
+msgstr "Total partiel"
+
+msgid "Sub Total (if Financing)"
+msgstr "Total partiel (financement)"
+
+msgid "Sub Total (if Leasing)"
+msgstr "Total partiel (location)"
+
+msgid "Subdivision"
+msgstr "Quartier"
+
+msgid "Submitted trade-in currently exists."
+msgstr "Un demande de valeur d’échange est déjà soumise."
+
+msgid "Subscribing"
+msgstr "S'abonner"
+
+msgid "Suite Number"
+msgstr "N° d’appartement"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "Tax Rate"
+msgstr "Taux de taxe"
+
+msgid "Tax on Cap Cost"
+msgstr "Taxe sur les émissions"
+
+msgid "Technology Package"
+msgstr "Groupe technologie"
+
+msgid "Term:"
+msgstr "Durée:"
+
+msgid "Terms & Conditions"
+msgstr "Modalités et conditions"
+
+msgid "Terrace"
+msgstr "Terrace"
+
+msgid "Terrasse"
+msgstr "Terrasse"
+
+msgid ""
+"Thank you for submitting your trade-in. Your instant cash offer is ready:"
+msgstr ""
+"Merci d’avoir soumis votre véhicule d’échange. Votre Offre argent comptant "
+"est prête:"
+
+msgid "The Date of Birth cannot be before 1900-01-01."
+msgstr "La date de naissance ne peut être antérieure à 1900-01-01."
+
+msgid "The application is now available in MotoCommerce for you to review."
+msgstr "La demande est disponible et prête à être révisée sur MotoCommerce."
+
+msgid "The change any of"
+msgstr "Le changement de tout"
+
+#, python-format
+msgid "The change of %(option)s<br />requires selecting one of these options:"
+msgstr ""
+"Le changement de %(option)s<br />nécessite la sélection d’une de ces "
+"options:"
+
+msgid ""
+"The email address where we should send the lead in ADF/XML format.Comma "
+"separated list of emails."
+msgstr ""
+"L’adresse courriel à laquelle doit être envoyée la demande de client "
+"potentiel au format ADF/XML. Liste de courriels en liste séparée par des "
+"virgules."
+
+msgid "The final requested finance amount is not large enough."
+msgstr "Le montant de financement final n’est pas assez élevé."
+
+msgid "The given username must be set"
+msgstr "Le nom d’utilisateur doit être défini"
+
+msgid "The phone number is invalid"
+msgstr "Le numéro de téléphone soumis est invalide"
+
+msgid ""
+"The provided address does not match the billing address of the cardholder."
+msgstr ""
+"L’adresse fournie ne correspond pas à l’adresse de facturation du titulaire "
+"de la carte."
+
+msgid ""
+"The provided postal code does not match the billing address of the "
+"cardholder."
+msgstr ""
+"Le code postal fourni ne correspond pas à celui de l’adresse de facturation "
+"du titulaire de la carte."
+
+msgid ""
+"The server encountered a temporary error and could not complete your request"
+msgstr ""
+"Le système a rencontré une erreur temporairement et n’a pas pu traiter votre"
+" demande."
+
+#, python-brace-format
+msgid ""
+"The store's closing time must be after it opens. Please check the hours for "
+"{day}."
+msgstr ""
+"L’heure de fermeture doit être après son heure d’ouverture. Veuillez réviser"
+" les heures du {day}."
+
+msgid "The two password fields do not match."
+msgstr "Le mot de passe et sa vérification ne concordent pas."
+
+msgid ""
+"There are currently no vehicles that could be used to emulate these "
+"scenarios."
+msgstr ""
+"Présentement, aucun véhicule ne pourrait être utilisé dans ces scénarios."
+
+msgid "There are currently no vehicles that match the criteria."
+msgstr "Il n’y a présentement aucun véhicule correspondant à ces critères."
+
+msgid "There are two steps to create a Build Your Deal link successfully:"
+msgstr "La création d’un lien Construisez votre offre s’effectue en 2 étapes:"
+
+msgid "There is no available trade-in for this order."
+msgstr "Aucun véhicule d’échange disponible pour cette commande."
+
+msgid ""
+"These are vehicles that do not meet the criteria for visibility and thus the"
+" widget should not be visible."
+msgstr ""
+"Ces véhicules ne correspondent pas aux critères de visibilité et donc le "
+"widget ne doit pas être visible."
+
+msgid "These are vehicles that should have a working integration."
+msgstr "Ces véhicules devraient avoir une intégration fonctionnelle."
+
+msgid ""
+"These are widgets that do not follow the integration instructions. Behavior "
+"may vary depending on what went wrong when writing the widget."
+msgstr ""
+"Ces widgets ne suivent pas les instructions d’intégration. Le comportement "
+"peut varier en fonction de l’erreur générée par le widget."
+
+msgid "This dealership cannot receive payments at the moment."
+msgstr "Ce concessionnaire ne peut pas recevoir de paiements pour le moment."
+
+msgid "This deposit is not confirmed."
+msgstr "Ce dépôt n’est pas confirmé."
+
+msgid ""
+"This document provides instructions to add the MotoCommerce widgets to your "
+"dealership website. Please see below for more details."
+msgstr ""
+"Ce document fournit des instructions d’ajouts de widgets MotoCommerce sur "
+"votre site web de concessionnaire. Plus de détails ci-dessous."
+
+msgid "This email already exists. Please check your inbox to continue."
+msgstr ""
+"Ce courriel existe déjà. Veuillez vérifier votre boîte de réception de "
+"courriel pour continuer."
+
+msgid "This email already exists. Please log in to continue."
+msgstr "Ce courriel existe déjà. Veuillez vous connecter pour continuer."
+
+msgid "This email is already in use."
+msgstr "Ce courriel est déjà utilisé."
+
+msgid "This email is already registered."
+msgstr "Cette adresse de courriel est déjà enregistrée."
+
+msgid "This is the full price that a customer will pay for an accessory."
+msgstr "C’est le prix total payé par un consommateur pour l’accessoire."
+
+#, python-format
+msgid "This offer is valid until %(expiration_date)s"
+msgstr "Cette offre est valide jusqu’au %(expiration_date)s"
+
+msgid ""
+"This page provides some examples of what to expect when using our "
+"integration widget. Inventory is limited to 5 vehicles per category to "
+"simplify testing."
+msgstr ""
+"Cette page fournit quelques exemples pour notre widget d’intégration. "
+"L’inventaire est limité à 5 véhicules par catégorie pour simplifier les "
+"essais."
+
+msgid "This vehicle already has a deposit."
+msgstr "Un dépôt a déjà été versé pour ce véhicule."
+
+msgid ""
+"This widget acts as a Call-to-Action (CTA) button to direct the customer "
+"into MotoCommerce for a specific inventory vehicle. You are free to style "
+"this CTA in a way that matches the design on your website."
+msgstr ""
+"Ce widget est un bouton est un bouton d’appel à l’action qui dirige le "
+"consommateur vers MotoCommerce pour un véhicule précis. Vous pouvez modifier"
+" l’apparence du bouton en fonction du style de votre site web."
+
+msgid ""
+"This will tell us whether or not to pull Google Reviews for this dealership."
+msgstr ""
+"Paramètre indiquant s’il faut afficher les avis Google pour ce "
+"concessionnaire."
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Tire Tax"
+msgstr "Taxe sur les pneus"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Title English"
+msgstr "Titre Anglais"
+
+msgid "Title French"
+msgstr "Titre Français"
+
+msgid "Too confusing"
+msgstr "Trop confus"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Amount Financed"
+msgstr "Montant total financé"
+
+msgid "Total Fees"
+msgstr "Total des frais"
+
+msgid "Total Obligation"
+msgstr "Obligation totale"
+
+msgid "Total Post-Tax Incentives"
+msgstr "Total des incitatifs après taxes"
+
+msgid "Total Pre-Tax Incentives"
+msgstr "Total des incitatifs pré-taxes"
+
+msgid "Total Purchase Price"
+msgstr "Prix d’achat total"
+
+msgid "Total Sale Price"
+msgstr "Prix de vente total"
+
+msgid "Townline"
+msgstr "Townline"
+
+msgid "Trade In Owing"
+msgstr "Solde véhicule d’échange"
+
+msgid "Trade In Owing Amount"
+msgstr "Montant dû, véhicule d’échange"
+
+msgid "Trade In Value"
+msgstr "Valeur d’échange"
+
+msgid "Trade completed"
+msgstr "Échange effectuée"
+
+msgid "Trade submitted"
+msgstr "Échange soumise"
+
+msgid "Trade valuation request submitted"
+msgstr "Demande d'évaluation de échange soumis"
+
+msgid "Trade-in"
+msgstr "Véhicule d’échange"
+
+msgid "Trade-in value"
+msgstr "Valeur d’échange"
+
+msgid "Trade-in with pending offer currently exists."
+msgstr "Échange avec offre en attente existe déjà."
+
+msgid "Trades"
+msgstr "Travailleur spécialisé"
+
+msgid "Trail"
+msgstr "Trail"
+
+msgid "Transmission"
+msgstr "Transmission"
+
+msgid "Trim"
+msgstr "Version"
+
+msgid "Trims"
+msgstr "Versions"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Turnabout"
+msgstr "Turnabout"
+
+msgid "Type additional info"
+msgstr "Entrer des renseignements additionnels"
+
+msgid "Type city"
+msgstr "Entrer ville"
+
+msgid "Type civic address"
+msgstr "Entrer adresse municipale"
+
+msgid "Type concession"
+msgstr "Entrer concession"
+
+msgid "Type date of birth"
+msgstr "Entrer date de naissance"
+
+msgid "Type email address"
+msgstr "Entrer adresse courriel"
+
+msgid "Type employer"
+msgstr "Entrer employeur"
+
+msgid "Type first name"
+msgstr "Entrer prénom"
+
+msgid "Type gross employment income"
+msgstr "Entrer revenu brut d’emploi"
+
+msgid "Type landlord"
+msgstr "Entrer propriétaire"
+
+msgid "Type last name"
+msgstr "Entrer nom de famille"
+
+msgid "Type lot number"
+msgstr "Entrer n° de lot"
+
+msgid "Type marital status"
+msgstr "Entrer statut matrimonial"
+
+msgid "Type market value"
+msgstr "Entrer valeur du marché"
+
+msgid "Type middle initial"
+msgstr "Entrer second prénom"
+
+msgid "Type monthly residential payment"
+msgstr "Entrer loyer mensuel de résidence"
+
+msgid "Type months as retired"
+msgstr "Entrer nb. de mois à la retraite"
+
+msgid "Type months at address"
+msgstr "Entrer nb. de mois à cette adresse"
+
+msgid "Type months at employer"
+msgstr "Entrer nb. de mois à cet emploi"
+
+msgid "Type mortgage amount"
+msgstr "Entrer montant d’hypothèque"
+
+msgid "Type mortgage holder"
+msgstr "Entrer votre créancier hypothécaire"
+
+msgid "Type occupation"
+msgstr "Entrer poste d’emploi"
+
+msgid "Type other income"
+msgstr "Entrer autres revenus"
+
+msgid "Type phone number"
+msgstr "Entrer numéro de téléphone"
+
+msgid "Type postal box number"
+msgstr "Entrer numéro de boîte postale"
+
+msgid "Type postal code"
+msgstr "Entrer code postal"
+
+msgid "Type rural route number"
+msgstr "Entrer numéro de route rurale"
+
+msgid "Type social insurance number"
+msgstr "Entrer numéro d’assurance sociale"
+
+msgid "Type street name"
+msgstr "Entrer nom de rue"
+
+msgid "Type street number"
+msgstr "Entrer numéro de rue"
+
+msgid "Type suite number"
+msgstr "Entrer n° d’appartement"
+
+msgid "Type work phone"
+msgstr "Entrer téléphone du travail"
+
+msgid "Type work phone ext."
+msgstr "Entrer téléphone au travail (poste)"
+
+msgid "Type years as retired"
+msgstr "Entrer nb. d’années à la retraite"
+
+msgid "Type years at address"
+msgstr "Entrer nb. d’années à cette adresse"
+
+msgid "Type years at employer"
+msgstr "Entrer nb. d’années à cet emploi"
+
+msgid ""
+"Unable to edit dealer profile. Please contact support if this issue "
+"persists."
+msgstr ""
+"Impossible de modifier le profil du concessionnaire. Veuillez joindre le "
+"soutien technique si le problème persiste."
+
+msgid "Unable to save notification settings."
+msgstr "Impossible d’enregistrer les paramètres de notification"
+
+msgid "Unemployed"
+msgstr "Au chômage"
+
+msgid "Unhaggle Deposit"
+msgstr "Dépôt Unhaggle"
+
+msgid "Unhaggle Deposit Refund"
+msgstr "Remboursement de dépôt Unhaggle"
+
+msgid "Unhaggle Fee"
+msgstr "Frais Unhaggle"
+
+msgid "Unhaggle Fee Refund"
+msgstr "Remboursement de frais Unhaggle"
+
+msgid "Unique Dealership Identifier"
+msgstr "ID unique de concessionnaire"
+
+msgid "United States of America"
+msgstr "États-Unis d’Amérique"
+
+msgid "Unlimited"
+msgstr "Illimité"
+
+msgid "Unsubscribe"
+msgstr "Désabonner"
+
+msgid "Updated at date by Jato"
+msgstr "Mis à jour à la date par Jato"
+
+#, python-brace-format
+msgid "Upload your trade-in photos here: {url}"
+msgstr "Transférez vos photos de véhicules d’échange ici: {url}"
+
+msgid "Use this code to redeem your offer:"
+msgstr "Utilisez ce code pour faire valider votre offre:"
+
+msgid "Used"
+msgstr "Occasion"
+
+msgid "User account is disabled."
+msgstr "Compte-utilisateur désactivé."
+
+msgid "User doesn't exist"
+msgstr "Utilisateur n’existe pas"
+
+msgid "User doesn't exist."
+msgstr "Utilisateur n’existe pas."
+
+msgid "VIN"
+msgstr "NIV"
+
+msgid "VIN:"
+msgstr "NIV:"
+
+msgid "Vale"
+msgstr "Vale"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Variable deductible"
+msgstr "Franchise variable"
+
+msgid "Vehicle"
+msgstr "Véhicule"
+
+msgid "Vehicle Details"
+msgstr "Info du véhicule"
+
+msgid "Vehicle Details Page \"Build Your Deal\" widget"
+msgstr "Widget « Construisez votre offre » de la page des détails"
+
+msgid "Vehicle ID reference does not exist."
+msgstr "La référence à l’ID du véhicule n’existe pas."
+
+msgid "Vehicle Price"
+msgstr "Prix du véhicule"
+
+msgid "Vehicle fractional model year"
+msgstr "Année-modèle fractionnaire."
+
+msgid "Vehicle is no longer active/available for this order."
+msgstr "Le véhicule n’est plus actif/disponible pour cette commande."
+
+msgid "Vehicle make"
+msgstr "Marque du véhicule"
+
+msgid "Vehicle model"
+msgstr "Modèle du véhicule"
+
+msgid "Vehicle not found"
+msgstr "Véhicule non trouvé"
+
+msgid "Vehicle sub-model name"
+msgstr "Nom du sous-modèle du véhicule"
+
+msgid "Vehicle trim name"
+msgstr "Nom de version du véhicule"
+
+msgid "Vehicle year"
+msgstr "Année du véhicule"
+
+msgid "View"
+msgstr "Afficher"
+
+msgid "View my deal"
+msgstr "Afficher mon offre"
+
+msgid "View payment options"
+msgstr "Afficher options de paiement"
+
+msgid "Village"
+msgstr "Village"
+
+msgid "Villas"
+msgstr "Villas"
+
+msgid "Visible"
+msgstr "Visible"
+
+msgid "Vista"
+msgstr "Vista"
+
+msgid "Voie"
+msgstr "Voie"
+
+msgid "Walk"
+msgstr "Walk"
+
+msgid "Warranty"
+msgstr "Garantie"
+
+msgid "Way"
+msgstr "Way"
+
+msgid ""
+"We encountered an error while connecting to Stripe. Please try again later."
+msgstr ""
+"Une erreur est survenue lors de la connexion à Stripe. Veuillez réessayer "
+"plus tard."
+
+msgid "We look forward to seeing you soon!"
+msgstr "Au plaisir de vous rencontrer bientôt!"
+
+msgid ""
+"We will review your trade-in details and email you a conditional offer."
+msgstr ""
+"Nous examinerons les détails de votre échange et vous enverrons par email "
+"une offre conditionnelle."
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Weekly"
+msgstr "/semaine"
+
+msgid "West"
+msgstr "Ouest"
+
+msgid "Wharf"
+msgstr "Wharf"
+
+msgid "What's Next"
+msgstr "Et après"
+
+msgid "Whoops!"
+msgstr "Oups!"
+
+msgid "Widow/Widower"
+msgstr "Veuf(ve)"
+
+msgid "With Parents"
+msgstr "Avec les parents"
+
+msgid "Wood"
+msgstr "Wood"
+
+msgid "Work Phone"
+msgstr "Téléphone au travail"
+
+msgid "Work Phone Ext."
+msgstr "N° de poste"
+
+msgid "Workers Compensation"
+msgstr "Indemnisation des accidentés du travail"
+
+msgid "Wynd"
+msgstr "Wynd"
+
+msgid "Year:"
+msgstr "Année:"
+
+msgid "Years as Retired"
+msgstr "Nb. d’années à la retraite"
+
+msgid "Years at Address"
+msgstr "Nb. d’années à cette adresse"
+
+msgid "Years at Employer"
+msgstr "Nb. d’années à cet emploi"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Yes - Financing"
+msgstr "Oui - Financé"
+
+msgid "Yes - Leasing"
+msgstr "Oui - Loué"
+
+msgid "You are not allowed to alter the role of this user."
+msgstr "Vous n’êtes pas autorisé à modifier le rôle de cet utilisateur."
+
+msgid "You are not allowed to grant this role."
+msgstr "Vous n’êtes pas autorisé à accorder ce rôle."
+
+msgid "You are not authorized to assign customers to other dealers"
+msgstr ""
+"Vous n’êtes pas autorisé à attribuer des clients à d’autres concessionnaires"
+
+msgid "You can apply this offer to any of our available vehicles."
+msgstr ""
+"Vous pouvez appliquer cette offre à n’importe quel véhicule de votre choix."
+
+msgid "You can return anytime to:"
+msgstr "Vous pouvez retourner à tout moment pour:"
+
+msgid "You can review your deal online by clicking here:"
+msgstr "Vous pouvez examiner votre offre en ligne en cliquant ici:"
+
+msgid ""
+"You can review your deal or reschedule your appointment at any time via the "
+"link below:"
+msgstr ""
+"Vous pouvez examiner votre offre ou reporter votre rendez-vous à tout moment"
+" via le lien ci-dessous:"
+
+msgid ""
+"You don't have permissions to create customer accounts for this dealership."
+msgstr ""
+"Vous ne possédez pas l’autorisation nécessaire pour créer des comptes "
+"clients pour ce concessionnaire."
+
+msgid "You must accept Vehicle History terms"
+msgstr "Vous devez accepter les conditions de l’historique du véhicule"
+
+msgid "Your Appointment at {} has been Confirmed"
+msgstr "Votre rendez-vous chez {} a été confirmé"
+
+msgid "Your Credit Application has been Approved"
+msgstr "Votre demande de crédit a été approuvée."
+
+msgid "Your Deposit Receipt for {} at {}"
+msgstr "Votre reçu de dépôt pour {} chez {}"
+
+msgid "Your Instant Cash Offer"
+msgstr "Votre Offre argent instant"
+
+msgid "Your Refund for {} at {}"
+msgstr "Votre remboursement pour {} chez {}"
+
+msgid "Your Trade-In Appraisal is Ready"
+msgstr "L’évaluation de votre véhicule d’échange est prête"
+
+msgid "Your password must contain:"
+msgstr "Votre mot de passe doit contenir:"
+
+msgid "Your session has expired. Please login again to continue."
+msgstr ""
+"Votre session a expiré. Veuillez ouvrir une nouvelle session pour "
+"poursuivre."
+
+msgid "Yukon"
+msgstr "Yukon"
+
+msgid "ZIP code does not match the state."
+msgstr "Le code postal ne correspond pas à la région"
+
+msgid "amount of months the protection plan is valid for"
+msgstr "nombre de mois de validité du plan de protection"
+
+msgid "friday"
+msgstr "vendredi"
+
+msgid "is active"
+msgstr "est actif"
+
+msgid "monday"
+msgstr "lundi"
+
+msgid "orig_iat field is required."
+msgstr "Le champ orig_iat est requis."
+
+msgid "requires selecting one of these options"
+msgstr "nécessite la sélection d’une de ces options"
+
+msgid "saturday"
+msgstr "samedi"
+
+msgid "sunday"
+msgstr "dimanche"
+
+msgid "thursday"
+msgstr "jeudi"
+
+msgid "tuesday"
+msgstr "mardi"
+
+msgid "wednesday"
+msgstr "mercredi"
+
+#, python-brace-format
+msgid "{monthly_price}/mo"
+msgstr "{monthly_price}/mois"
+
+#, python-brace-format
+msgid "{terms} months @ {rate}"
+msgstr "{terms} mois @ {rate}"
+
+#, python-brace-format
+msgid "{term} months @ {percentage}"
+msgstr "{term} mois @ {percentage}"
+
+#, python-brace-format
+msgid "{title}: {year} {make} {model} {trim} for {first_name} {last_name}"
+msgstr "{title}: {make} {model} {trim} {year} pour {first_name} {last_name}"
+
+#, python-brace-format
+msgid "{vehicle_year} {vehicle_make} {vehicle_model}"
+msgstr "{vehicle_make} {vehicle_model} {vehicle_year}"
+
+#, python-brace-format
+msgid "{vehicle_year} {vehicle_make} {vehicle_model} {vehicle_trim}"
+msgstr "{vehicle_make} {vehicle_model} {vehicle_trim} {vehicle_year}"
+
+msgid "{} - Reset Your Password"
+msgstr "{} - Réinitialisation du mot de passe"
+
+msgid "{} - Welcome Back"
+msgstr "{} - Bon retour!"
+
+msgid "{} and {} other{}"
+msgstr "{} et {} autres {}"
+
+msgid "{} is required"
+msgstr "{} est requis."
+
+msgid "{} off MSRP"
+msgstr "{} de moins que PDSF"
