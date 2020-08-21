@@ -46,3 +46,6 @@ msgstr "beer"
 
 msgid "food"
 msgstr "food"
+
+msgid "independance"
+msgstr "independance"
