@@ -49,3 +49,6 @@ msgstr "food"
 
 msgid "independance2"
 msgstr "independance2"
+
+msgid "bank"
+msgstr "bank"
