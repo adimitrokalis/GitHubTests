@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Translators:
+# Anthony Dimitrokalis <anthonydim@transifex.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Pitchup.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-01 19:10+0100\n"
+"PO-Revision-Date: 2020-08-21 15:58+0000\n"
+"Last-Translator: Anthony Dimitrokalis <anthonydim@transifex.com>, 2020\n"
+"Language-Team: French (https://www.transifex.com/transifex-93/teams/96483/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: forms.py:189
+#, python-format
+msgid "%s country code"
+msgstr "code pays %s"
+
+#. translators: %s for product quantity, e.g. 1 product and 2 products. I want
+#. this to be a long note that wraps around in the translation editor.
+#: includes/widgets/class-wc-widget-product-tag-cloud.php:86
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s produit"
+msgstr[1] "%s produits"
+
+msgid "%d Date"
+msgstr "%d Date"
+
+msgid "%n Name"
+msgstr "%n Nom"
+
+msgid "<Strong>ok</Strong>"
+msgstr "ok2"
+
+msgid "test"
+msgstr "tester"
+
+msgid "beer"
+msgstr "Bière"
+
+msgid "food"
+msgstr "nourriture"
+
+msgid "independance2"
+msgstr "indépendance2"
+
+msgid "bank"
+msgstr "banque"
