@@ -52,3 +52,6 @@ msgstr "independance2"
 
 msgid "bank"
 msgstr "bank"
+
+msgid "money"
+msgstr "money"
