@@ -55,3 +55,7 @@ msgstr "bank"
 
 msgid "money"
 msgstr "money"
+
+msgid "elevator"
+msgstr "elevator"
+
