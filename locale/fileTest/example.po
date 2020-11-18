@@ -62,3 +62,6 @@ msgstr "elevator"
 msgid "vault"
 msgstr "vault"
 
+msgid "sports"
+msgstr "sports"
+
