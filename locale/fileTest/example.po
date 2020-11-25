@@ -20,7 +20,7 @@ msgstr ""
 #: forms.py:189
 #, python-format
 msgid "%s country code"
-msgstr "%s country code"
+msgstr "more country codes"
 
 #. translators: %s for product quantity, e.g. 1 product and 2 products. I want this to be a long note that wraps around in the translation editor.
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:86
