@@ -65,3 +65,6 @@ msgstr "vault"
 msgid "sports"
 msgstr "sports"
 
+msgid "markdown"
+msgstr "github markdown"
+
