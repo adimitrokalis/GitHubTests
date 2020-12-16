@@ -63,8 +63,11 @@ msgid "vault"
 msgstr "vault"
 
 msgid "sports"
-msgstr "sports"
+msgstr "sports team"
 
 msgid "markdown"
 msgstr "github markdown"
+
+msgid "east"
+msgstr "east"
 
