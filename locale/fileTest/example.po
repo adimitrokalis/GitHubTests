@@ -71,3 +71,6 @@ msgstr "github markdown"
 msgid "east"
 msgstr "east"
 
+msgid "holidays"
+msgstr "holidays"
+
