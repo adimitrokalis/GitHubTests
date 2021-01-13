@@ -74,3 +74,6 @@ msgstr "east"
 msgid "holidays"
 msgstr "holidays"
 
+msgid "github"
+msgstr "github"
+
