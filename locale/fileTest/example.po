@@ -31,3 +31,6 @@ msgstr[1] "%s products"
 
 msgid "%d Date"
 msgstr "%d Date"
+
+msgid "test"
+msgstr "test"
