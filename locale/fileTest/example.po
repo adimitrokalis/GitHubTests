@@ -34,3 +34,6 @@ msgstr "%d Date"
 
 msgid "test"
 msgstr "test"
+
+msgid "HELP"
+msgstr "help"
