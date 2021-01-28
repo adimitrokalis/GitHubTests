@@ -56,4 +56,18 @@ msgstr "I fed all of her fish, then cleaned its tank"
 msgid "badgrammar2"
 msgstr "I can't hardly believe what she said."
 
+msgid "inconsistency1"
+msgstr "The government is big and bad to some people"
+
+msgid "inconsistency2"
+msgstr "The Government is good to some people"
+
+msgid "inconsistency3"
+msgstr "Decision making to many should be based on what the majority feel on social media"
+
+msgid "inconsistency4"
+msgstr "Decision-making to others should respect the concerns and beleifs of everyone even those in the minority"
+
+
+
 
