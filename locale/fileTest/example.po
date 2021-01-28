@@ -37,3 +37,23 @@ msgstr "test"
 
 msgid "HELP"
 msgstr "help"
+
+msgid "backend"
+msgstr "back end"
+
+msgid "backend2"
+msgstr "back-end"
+
+msgid "duplicate"
+msgstr "Duplicate"
+
+msgid "duplicate2"
+msgstr "Duplicate"
+
+msgid "badgrammar"
+msgstr "I fed all of her fish, then cleaned its tank"
+
+msgid "badgrammar2"
+msgstr "I can't hardly believe what she said."
+
+
