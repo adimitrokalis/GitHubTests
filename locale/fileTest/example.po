@@ -68,6 +68,12 @@ msgstr "Decision making to many should be based on what the majority feel on soc
 msgid "inconsistency4"
 msgstr "Decision-making to others should respect the concerns and beleifs of everyone even those in the minority"
 
+msgid "inconsistency4"
+msgstr "Decision-making to others should respect the concerns and beleifs of everyone even those in the minority"
+
+msgid "icims"
+msgstr "[canditateName] was succesfully moved to [status] for [jobTitle]"
+
 
 
 
