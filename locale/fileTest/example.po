@@ -69,7 +69,7 @@ msgid "inconsistency4"
 msgstr "Decision-making to others should respect the concerns and beleifs of everyone even those in the minority"
 
 msgid "inconsistency4"
-msgstr "Decision-making to others should respect the concerns and beleifs of everyone even those in the minority"
+msgstr "Decision-making to others should respect the concerns and beliefs of everyone even those in the minority"
 
 msgid "icims"
 msgstr "[canditateName] was succesfully moved to [status] for [jobTitle]"
