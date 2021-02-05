@@ -71,6 +71,12 @@ msgstr "Decision-making to others should respect the concerns and beleifs of eve
 msgid "icims"
 msgstr "[canditateName] was succesfully moved to [status] for [jobTitle]"
 
+msgid "tmwebhook"
+msgstr "there is no transaltion for this string"
+
+msgid "tmwebhook2"
+msgstr "there is no transaltion for this string2"
+
 
 
 
