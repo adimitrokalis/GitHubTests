@@ -77,6 +77,9 @@ msgstr "there is no transaltion for this string"
 msgid "tmwebhook2"
 msgstr "there is no transaltion for this string2"
 
+msgid "translationcheck"
+msgstr "[B]No[/B][A]sent requests[/A][B].[/B]"
+
 
 
 
