@@ -81,7 +81,7 @@ msgid "translationcheck"
 msgstr "[B]No[/B][A]sent requests[/A][B].[/B]"
 
 msgid "tcheck2"
-msgstr "Use our default <a href="/privacywebsite/data?id={0}" target="_blank">privacy policy</a>"
+msgstr "Use our default <a href=/"/privacywebsite/data?id={0}/" target=/"_blank/">privacy policy</a>"
 
 
 
